@@ -1,0 +1,30 @@
+{
+  "site": {
+    "patternOpacity": 0.6,
+    "gridOpacity": 0.09,
+    "photo": "assets/foto_portada_web_5.png"
+  },
+  "badges": [
+    {
+      "id": "est2007",
+      "text": "EST. 2007",
+      "show": true
+    },
+    {
+      "id": "corel",
+      "text": "COREL DRAW ONLY",
+      "show": true
+    },
+    {
+      "id": "hecho",
+      "text": "HECHO A MANO",
+      "show": true
+    },
+    {
+      "id": "mk",
+      "text": "MORTAL KOMBAT",
+      "show": true,
+      "note": "podes ocultarlo desde /admin"
+    }
+  ]
+}
