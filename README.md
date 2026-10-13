@@ -1,31 +1,18 @@
-# Ferchu Escola - BASE FINAL BLOQUEADA
-Aprobado: diseño ARCADE WORKSHOP fusion (captura que enviaste)
-- Tipografia FERCHU ESCOLA achicada: clamp(48px, 8vw, 88px) -> no se parte en 3 en mobile
-- Foto vertical 3:4 (foto_portada_web_5.png) - se ve tu cara
-- Pattern pattern.jpg al 60% + grid cuadriculada 9% conviviendo (ambos visibles)
-- Puntos offset CMYK restaurados + nodos solo Corel (sin diamantes Illustrator)
-- Full scroll + plantillas internas /trabajos/:slug /vectores/:slug /libro etc
+# FERCHU ESCOLA - Traduccion total + rutas
 
-## Que incluye
-- index.html = tu web completa (esta que aprobaste)
-- src/App.tsx = codigo fuente React para editar incremental (no rediseñar)
-- assets/pattern.jpg y assets/foto_portada_web_5.png
+Fix: ES/EN ahora traduce TODO
 
-## Deploy Cloudflare Pages (como tenes cuentas)
-1. GitHub: nuevo repo ferchu-escola-site -> subir index.html y assets/
-2. Cloudflare Pages: New Project -> Connect to Git -> seleccionar repo
-3. Build: Framework preset = None, Build command = (vacio), Output dir = /
-4. Deploy -> te da *.pages.dev
-5. Custom domain -> ferchuescola.com
+- Header nav
+- Hero: UN TALLER VECTORIAL / A VECTOR WORKSHOP
+- InfoBar
+- TRABAJOS / WORKS - 10 piezas con desc EN
+- VECTORES / VECTORS - 5 piezas
+- CLIENTES / CLIENTS
+- LIBRO / BOOK
+- CONTACTO / CONTACT
+- Footer: PLANTILLAS INTERNAS / INTERNAL TEMPLATES
+- Botones: VER TRABAJOS -> VIEW WORKS, MEDIDAS -> SIZE, etc
+- Rutas: /trabajos <-> /works, /vectores <-> /vectors, /clientes <-> /clients, /libro <-> /book, /contacto <-> /contact
+  Ambas aceptadas, nav genera segun idioma actual
 
-## Edicion futura (sin pedirme sitio nuevo)
-- /admin -> panel Decap CMS
-  - Badges: cada cuadradito (MORTAL KOMBAT, etc) tiene switch Mostrar/Ocultar
-  - Trabajos: agregar/quitar, cambiar titulo, medidas, cliente
-  - Pattern: cambiar opacidad 20/40/60% sin codigo
-- ?edit=1 -> edicion directa clickeando texto
-
-Las plantillas internas ya estan: al clickear una marquesina va a /trabajos/slug
-Podes reemplazar placeholders con tus fotos reales desde /admin.
-
-Este ZIP es la base bloqueada. De aca en mas solo edito incremental sobre este archivo.
+Deploy: Subir todo a raiz de ferchuescola-web en GitHub, Cloudflare Workers redeploya solo.
