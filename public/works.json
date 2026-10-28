@@ -1,0 +1,20 @@
+[
+  { "id": "marquesinas", "category": "marquees", "accent": "magenta", "image": "images/works/marquesinas.jpg",
+    "title": { "es": "Marquesinas", "en": "Marquees" },
+    "desc": { "es": "Dibujadas y vectorizadas desde cero para restauración de arcades.", "en": "Drawn and vectorized from scratch for arcade restorations." } },
+  { "id": "low-poly", "category": "vectors", "accent": "cyan", "image": "images/works/low-poly.jpg",
+    "title": { "es": "Técnica Low Poly", "en": "Low Poly technique" },
+    "desc": { "es": "Vectorización realizada a mano.", "en": "Hand-made vectorization." } },
+  { "id": "raro-vhs", "category": "logos", "accent": "yellow", "image": "images/works/raro-vhs.jpg",
+    "title": { "es": "Logo Raro VHS", "en": "Raro VHS logo" },
+    "desc": { "es": "Rediseño completo del logotipo del sitio RaroVHS.", "en": "Complete redesign of the RaroVHS website logo." } },
+  { "id": "lata-7up", "category": "vectors", "accent": "cyan", "image": "images/works/lata-7up.jpg",
+    "title": { "es": "Lata 7UP, 1992", "en": "7UP can, 1992" },
+    "desc": { "es": "Diseño vectorizado a mano.", "en": "Hand-vectorized design." } },
+  { "id": "chocolates-felfort", "category": "vectors", "accent": "yellow", "image": "images/works/chocolates-felfort.jpg",
+    "title": { "es": "Chocolates FelFort", "en": "FelFort chocolates" },
+    "desc": { "es": "Producto ilustrado a mano en vectores.", "en": "Product hand-illustrated in vectors." } },
+  { "id": "cartucho-mixta", "category": "mixed", "accent": "magenta", "image": "images/works/cartucho-mixta.jpg",
+    "title": { "es": "Técnica mixta", "en": "Mixed technique" },
+    "desc": { "es": "Cartucho vectorial con etiqueta en mapa de bits.", "en": "Vector cartridge with a bitmap label." } }
+]

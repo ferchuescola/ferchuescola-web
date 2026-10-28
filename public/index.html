@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ferchu Escola | Vectorización, marquesinas y arte digital</title>
+<meta name="description" content="Diseñador visual. Vectorización de logos e imágenes, pasaje de JPG a CorelDRAW, marquesinas y arte digital 100% vectorial. Buenos Aires, desde 2007.">
+<meta property="og:title" content="Ferchu Escola | Vectorización, marquesinas y arte digital">
+<meta property="og:image" content="images/foto-portada.jpg">
+<meta name="theme-color" content="#0E0B1F">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=DM+Sans:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#inicio" data-i18n="skip">Ir al contenido</a>
+
+<div class="ticker"><span data-i18n="ticker.1"></span><span data-i18n="ticker.2"></span></div>
+
+<header class="nav">
+  <a class="brand" href="#inicio"><span class="brand-mark">F</span>FERCHU ESCOLA</a>
+  <nav aria-label="Principal" class="nav-links">
+    <a href="#servicios" data-i18n="nav.services"></a>
+    <a href="#trabajos" data-i18n="nav.works"></a>
+    <a href="#arte" data-i18n="nav.art"></a>
+    <a href="#sobre-mi" data-i18n="nav.about"></a>
+    <span class="lang" role="group" aria-label="Idioma / Language">
+      <button type="button" data-lang="es" aria-pressed="true">ES</button>
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+    </span>
+    <a class="btn btn-pink btn-sm" href="#contacto" data-i18n="nav.quote"></a>
+  </nav>
+</header>
+
+<main>
+<section id="inicio" class="hero">
+  <div class="hero-text">
+    <p class="mono eyebrow" data-i18n="hero.eyebrow"></p>
+    <h1><span data-i18n="hero.h1a"></span><span class="nw"><span class="hl"><span data-i18n="hero.h1b"></span><i></i><i></i><i></i><i></i></span>.</span></h1>
+    <p class="lead" data-i18n="hero.sub"></p>
+    <div class="cta-row">
+      <a class="btn btn-pink" href="#trabajos" data-i18n="hero.cta1"></a>
+      <a class="btn btn-outline" href="#contacto" data-i18n="hero.cta2"></a>
+    </div>
+    <p class="mono proof" data-i18n="hero.proof"></p>
+  </div>
+  <div class="hero-photo">
+    <div class="photo-frame tilt">
+      <img src="images/foto-portada.jpg" width="899" height="1599" alt="" data-i18n-alt="hero.photoAlt" fetchpriority="high">
+      <span class="stamp" data-i18n="hero.badge"></span>
+    </div>
+  </div>
+</section>
+
+<section id="servicios" class="band">
+  <p class="mono label" data-i18n="services.label"></p>
+  <h2 data-i18n="services.title"></h2>
+  <div class="grid3">
+    <article class="card c-cyan"><span class="mono num">01</span><h3 data-i18n="services.1.t"></h3><p data-i18n="services.1.d"></p></article>
+    <article class="card c-yellow"><span class="mono num">02</span><h3 data-i18n="services.2.t"></h3><p data-i18n="services.2.d"></p></article>
+    <article class="card c-pink"><span class="mono num">03</span><h3 data-i18n="services.3.t"></h3><p data-i18n="services.3.d"></p></article>
+  </div>
+  <p class="mono process" data-i18n="services.process"></p>
+</section>
+
+<section id="trabajos" class="section">
+  <div class="head-row">
+    <div>
+      <p class="mono label" data-i18n="works.label"></p>
+      <h2 data-i18n="works.title"></h2>
+    </div>
+    <nav class="filters" aria-label="Filtros">
+      <button type="button" data-filter="all" aria-pressed="true" data-i18n="filter.all"></button>
+      <button type="button" data-filter="vectors" aria-pressed="false" data-i18n="filter.vectors"></button>
+      <button type="button" data-filter="marquees" aria-pressed="false" data-i18n="filter.marquees"></button>
+      <button type="button" data-filter="logos" aria-pressed="false" data-i18n="filter.logos"></button>
+      <button type="button" data-filter="mixed" aria-pressed="false" data-i18n="filter.mixed"></button>
+    </nav>
+  </div>
+  <div id="works-grid" class="grid3 works"></div>
+
+  <div class="ba">
+    <figure class="ph ph-dashed" id="ba-before"><img src="images/antes.jpg" alt="" hidden><figcaption class="mono" data-i18n="ba.before"></figcaption></figure>
+    <span class="arrow" aria-hidden="true">→</span>
+    <figure class="ph ph-solid" id="ba-after"><img src="images/despues.jpg" alt="" hidden><figcaption class="mono" data-i18n="ba.after"></figcaption></figure>
+    <div class="ba-text"><h3 data-i18n="ba.title"></h3><p data-i18n="ba.text"></p></div>
+  </div>
+</section>
+
+<section id="arte" class="band band-art">
+  <p class="mono label label-pink" data-i18n="art.label"></p>
+  <h2 class="big" data-i18n="art.title"></h2>
+  <p class="lead" data-i18n="art.text"></p>
+  <div class="grid2">
+    <figure class="art-piece">
+      <div class="ph ph-art pink" id="art-1"><img src="images/arte/family-game.jpg" alt="Family Game" hidden><span class="mono ph-label">[FAMILY GAME]</span></div>
+      <h3 data-i18n="art.1.t"></h3><p data-i18n="art.1.d"></p>
+    </figure>
+    <figure class="art-piece">
+      <div class="ph ph-art cyan" id="art-2"><img src="images/arte/gamecube.jpg" alt="GameCube" hidden><span class="mono ph-label">[GAMECUBE]</span></div>
+      <h3 data-i18n="art.2.t"></h3><p data-i18n="art.2.d"></p>
+    </figure>
+  </div>
+  <div class="art-foot">
+    <ul><li data-i18n="art.b1"></li><li data-i18n="art.b2"></li><li data-i18n="art.b3"></li></ul>
+    <a class="btn btn-yellow" href="#contacto" data-i18n="art.cta"></a>
+  </div>
+</section>
+
+<section id="sobre-mi" class="section">
+  <div class="about">
+    <div class="about-photo"><div class="photo-frame cyan-shadow"><img src="images/foto-portada.jpg" loading="lazy" width="899" height="1599" alt="" data-i18n-alt="about.photoAlt"></div></div>
+    <div class="about-text">
+      <p class="mono label" data-i18n="about.label"></p>
+      <h2 data-i18n="about.title"></h2>
+      <p data-i18n="about.p1"></p>
+      <p data-i18n="about.p2"></p>
+      <div class="grid4">
+        <div class="mini m-pink"><strong data-i18n="strength.1.t"></strong><p data-i18n="strength.1.d"></p></div>
+        <div class="mini m-cyan"><strong data-i18n="strength.2.t"></strong><p data-i18n="strength.2.d"></p></div>
+        <div class="mini m-yellow"><strong data-i18n="strength.3.t"></strong><p data-i18n="strength.3.d"></p></div>
+        <div class="mini m-white"><strong data-i18n="strength.4.t"></strong><p data-i18n="strength.4.d"></p></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="book">
+    <div class="book-cover"><img src="images/libro-tapa.jpg" alt="" hidden><span class="mono" data-i18n="book.cover"></span></div>
+    <div>
+      <p class="mono label label-yellow" data-i18n="book.label"></p>
+      <h3 data-i18n="book.title"></h3>
+      <p data-i18n="book.text"></p>
+      <a class="btn btn-cyan btn-sm" id="book-link" href="#sobre-mi" data-i18n="book.cta"></a>
+    </div>
+  </div>
+
+  <h3 class="sub" data-i18n="media.title"></h3>
+  <div id="media-grid" class="grid5"></div>
+
+  <h3 class="sub" data-i18n="clients.title"></h3>
+  <div id="clients-grid" class="logos"></div>
+</section>
+
+<section id="contacto" class="band band-contact">
+  <div class="contact">
+    <div>
+      <p class="mono label" data-i18n="contact.label"></p>
+      <h2 data-i18n="contact.title"></h2>
+      <p data-i18n="contact.text"></p>
+      <p class="links">
+        <a id="link-wa" href="#">WhatsApp</a>
+        <a id="link-in" href="#">LinkedIn</a>
+        <a id="link-ig" href="#">Instagram · Ferchu Escola</a>
+        <a id="link-ig2" href="#">Instagram · Escola Designs</a>
+        <a id="link-yt" href="#" hidden>YouTube</a>
+        <a id="link-pod" href="#" hidden>Podcast</a>
+      </p>
+    </div>
+    <form id="contact-form" class="form" method="post" novalidate>
+      <label>
+        <span data-i18n="form.name"></span>
+        <input type="text" name="nombre" autocomplete="name" required>
+      </label>
+      <label>
+        <span data-i18n="form.email"></span>
+        <input type="email" name="email" autocomplete="email" required>
+      </label>
+      <label>
+        <span data-i18n="form.topic"></span>
+        <select name="motivo">
+          <option data-i18n="form.opt.1" value="Vectorizar un logo o imagen"></option>
+          <option data-i18n="form.opt.2" value="Adaptar un archivo para imprenta"></option>
+          <option data-i18n="form.opt.3" value="Marquesina a pedido"></option>
+          <option data-i18n="form.opt.4" value="Obra de arte digital"></option>
+          <option data-i18n="form.opt.5" value="Otra consulta"></option>
+        </select>
+      </label>
+      <label>
+        <span data-i18n="form.message"></span>
+        <textarea name="mensaje" rows="5" required></textarea>
+      </label>
+      <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" class="trap" aria-hidden="true">
+      <button class="btn btn-pink" type="submit" data-i18n="form.send"></button>
+      <p id="form-status" class="status" role="status" aria-live="polite"></p>
+    </form>
+  </div>
+</section>
+</main>
+
+<footer class="foot">
+  <span class="mono" data-i18n="footer.rights"></span>
+  <nav class="mono" aria-label="Pie">
+    <a href="#trabajos" data-i18n="nav.works"></a>
+    <a href="#arte" data-i18n="nav.art"></a>
+    <a href="#sobre-mi" data-i18n="nav.about"></a>
+    <a href="#contacto" data-i18n="nav.quote"></a>
+  </nav>
+</footer>
+
+<script src="i18n.js"></script>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,5 @@
+name = "ferchuescola-web"
+compatibility_date = "2024-10-09"
+
+[assets]
+directory = "./public"
