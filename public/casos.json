@@ -1,0 +1,86 @@
+[
+  {
+    "id": "perro",
+    "title": {
+      "es": "Boceto → personaje",
+      "en": "Sketch → character"
+    },
+    "before": "images/casos/perro-antes.jpg",
+    "after": "images/casos/perro-despues.jpg"
+  },
+  {
+    "id": "7up",
+    "title": {
+      "es": "Lata 7UP",
+      "en": "7UP can"
+    },
+    "before": "images/casos/7up-antes.jpg",
+    "after": "images/casos/7up-despues.jpg",
+    "outline": "images/casos/7up-contornos.jpg"
+  },
+  {
+    "id": "volturno",
+    "title": {
+      "es": "Volturno",
+      "en": "Volturno"
+    },
+    "before": "images/casos/volturno-antes.jpg",
+    "after": "images/casos/volturno-despues.jpg",
+    "outline": "images/casos/volturno-contornos.jpg"
+  },
+  {
+    "id": "pinball",
+    "title": {
+      "es": "Cartucho Pinball",
+      "en": "Pinball cartridge"
+    },
+    "before": "images/casos/pinball-antes.jpg",
+    "after": "images/casos/pinball-despues.jpg"
+  },
+  {
+    "id": "bart",
+    "title": {
+      "es": "Sticker",
+      "en": "Sticker"
+    },
+    "before": "images/casos/bart-antes.jpg",
+    "after": "images/casos/bart-despues.jpg"
+  },
+  {
+    "id": "nave",
+    "title": {
+      "es": "Modelo de nave",
+      "en": "Spaceship model"
+    },
+    "before": "images/casos/nave-antes.jpg",
+    "after": "images/casos/nave-despues.jpg"
+  },
+  {
+    "id": "decadentes",
+    "title": {
+      "es": "Los Auténticos Decadentes",
+      "en": "Los Auténticos Decadentes"
+    },
+    "before": "images/casos/decadentes-antes.jpg",
+    "after": "images/casos/decadentes-despues.jpg"
+  },
+  {
+    "id": "lowpoly-perra",
+    "title": {
+      "es": "Low Poly: Bernarda",
+      "en": "Low Poly: Bernarda"
+    },
+    "before": "images/casos/lowpoly-perra-antes.jpg",
+    "after": "images/casos/lowpoly-perra-despues.jpg",
+    "outline": "images/casos/lowpoly-perra-contornos.jpg"
+  },
+  {
+    "id": "lowpoly-piloto",
+    "title": {
+      "es": "Low Poly: Colapinto",
+      "en": "Low Poly: Colapinto"
+    },
+    "before": "images/casos/lowpoly-piloto-antes.jpg",
+    "after": "images/casos/lowpoly-piloto-despues.jpg"
+  }
+]

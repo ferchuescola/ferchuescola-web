@@ -1,0 +1,54 @@
+[
+  {
+    "id": "family-game",
+    "accent": "pink",
+    "title": {
+      "es": "Family Game",
+      "en": "Family Game"
+    },
+    "desc": {
+      "es": "Consola Nintendo Family Computer generada desde cero, sin una sola foto.",
+      "en": "Nintendo Family Computer console generated from scratch, without a single photo."
+    },
+    "views": [
+      {
+        "key": "work",
+        "image": "images/arte/family-game.jpg"
+      },
+      {
+        "key": "detail",
+        "image": "images/arte/family-game-detalle.jpg"
+      },
+      {
+        "key": "outline",
+        "image": "images/arte/family-game-contornos.jpg"
+      }
+    ]
+  },
+  {
+    "id": "gamecube",
+    "accent": "cyan",
+    "title": {
+      "es": "GameCube",
+      "en": "GameCube"
+    },
+    "desc": {
+      "es": "Cada reflejo, sombra y textura es un trazo vectorial.",
+      "en": "Every reflection, shadow and texture is a vector stroke."
+    },
+    "views": [
+      {
+        "key": "work",
+        "image": "images/arte/gamecube.jpg"
+      },
+      {
+        "key": "ref",
+        "image": "images/arte/gamecube-referencia.jpg"
+      },
+      {
+        "key": "outline",
+        "image": "images/arte/gamecube-contornos.jpg"
+      }
+    ]
+  }
+]

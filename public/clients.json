@@ -1,3 +1,10 @@
 [
-  { "name": "Sacoa", "logo": "", "note": { "es": "", "en": "" } }
+  {
+    "name": "Sacoa",
+    "logo": "images/sacoa.png",
+    "note": {
+      "es": "",
+      "en": ""
+    }
+  }
 ]

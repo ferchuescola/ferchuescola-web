@@ -11,10 +11,12 @@ cada vez que se sube un cambio a GitHub, Cloudflare lo publica solo.
 | `style.css` | Colores, tipografías y diseño |
 | `i18n.js` | **Todos los textos** en español e inglés |
 | `works.json` | **Lista de trabajos** de la galería |
+| `casos.json` | Antes / después (y vista de contornos) |
+| `arte.json` | Obras de arte digital y sus vistas |
 | `media.json` | Notas en medios |
 | `clients.json` | Clientes |
 | `config.js` | Mail, WhatsApp, redes, enlace del libro y del formulario |
-| `images/` | Imágenes (`works/` para trabajos, `arte/` para las obras premium) |
+| `images/` | Imágenes: `works/` (trabajos), `casos/` (antes/después), `arte/` (obras premium) |
 
 ## Agregar un trabajo nuevo
 
@@ -25,7 +27,7 @@ cada vez que se sube un cambio a GitHub, Cloudflare lo publica solo.
 
 ## Obras premium (arte digital)
 
-Subí `family-game.jpg` y `gamecube.jpg` a `public/images/arte/`. Para el antes/después, `antes.jpg` y `despues.jpg` en `public/images/`. La tapa del libro va en `public/images/libro-tapa.jpg`.
+Las obras y sus vistas (obra, detalle, contornos, foto de referencia) se definen en `arte.json`. Para sumar un caso de antes/después, subí las imágenes a `public/images/casos/` y agregá un bloque en `casos.json`. La tapa del libro va en `public/images/libro-tapa.jpg`.
 
 ## Formulario de contacto
 

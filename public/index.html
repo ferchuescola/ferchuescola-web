@@ -75,16 +75,19 @@
       <button type="button" data-filter="vectors" aria-pressed="false" data-i18n="filter.vectors"></button>
       <button type="button" data-filter="marquees" aria-pressed="false" data-i18n="filter.marquees"></button>
       <button type="button" data-filter="logos" aria-pressed="false" data-i18n="filter.logos"></button>
+      <button type="button" data-filter="tablet" aria-pressed="false" data-i18n="filter.tablet"></button>
       <button type="button" data-filter="mixed" aria-pressed="false" data-i18n="filter.mixed"></button>
     </nav>
   </div>
   <div id="works-grid" class="grid3 works"></div>
 
   <div class="ba">
-    <figure class="ph ph-dashed" id="ba-before"><img src="images/antes.jpg" alt="" hidden><figcaption class="mono" data-i18n="ba.before"></figcaption></figure>
-    <span class="arrow" aria-hidden="true">→</span>
-    <figure class="ph ph-solid" id="ba-after"><img src="images/despues.jpg" alt="" hidden><figcaption class="mono" data-i18n="ba.after"></figcaption></figure>
-    <div class="ba-text"><h3 data-i18n="ba.title"></h3><p data-i18n="ba.text"></p></div>
+    <div class="ba-head">
+      <h3 data-i18n="ba.title"></h3>
+      <p data-i18n="ba.text"></p>
+    </div>
+    <div id="ba-tabs" class="chips" role="tablist"></div>
+    <div id="ba-panels" class="ba-panels"></div>
   </div>
 </section>
 
@@ -92,16 +95,7 @@
   <p class="mono label label-pink" data-i18n="art.label"></p>
   <h2 class="big" data-i18n="art.title"></h2>
   <p class="lead" data-i18n="art.text"></p>
-  <div class="grid2">
-    <figure class="art-piece">
-      <div class="ph ph-art pink" id="art-1"><img src="images/arte/family-game.jpg" alt="Family Game" hidden><span class="mono ph-label">[FAMILY GAME]</span></div>
-      <h3 data-i18n="art.1.t"></h3><p data-i18n="art.1.d"></p>
-    </figure>
-    <figure class="art-piece">
-      <div class="ph ph-art cyan" id="art-2"><img src="images/arte/gamecube.jpg" alt="GameCube" hidden><span class="mono ph-label">[GAMECUBE]</span></div>
-      <h3 data-i18n="art.2.t"></h3><p data-i18n="art.2.d"></p>
-    </figure>
-  </div>
+  <div id="art-list" class="art-list"></div>
   <div class="art-foot">
     <ul><li data-i18n="art.b1"></li><li data-i18n="art.b2"></li><li data-i18n="art.b3"></li></ul>
     <a class="btn btn-yellow" href="#contacto" data-i18n="art.cta"></a>
@@ -131,7 +125,7 @@
       <p class="mono label label-yellow" data-i18n="book.label"></p>
       <h3 data-i18n="book.title"></h3>
       <p data-i18n="book.text"></p>
-      <a class="btn btn-cyan btn-sm" id="book-link" href="#sobre-mi" data-i18n="book.cta"></a>
+      <div class="cta-row"><a class="btn btn-cyan btn-sm" id="book-link" href="#sobre-mi" data-i18n="book.cta"></a> <a class="btn btn-yellow btn-sm" id="book-buy" href="#sobre-mi" data-i18n="book.buy" hidden></a></div>
     </div>
   </div>
 
@@ -153,8 +147,12 @@
         <a id="link-in" href="#">LinkedIn</a>
         <a id="link-ig" href="#">Instagram · Ferchu Escola</a>
         <a id="link-ig2" href="#">Instagram · Escola Designs</a>
-        <a id="link-yt" href="#" hidden>YouTube</a>
-        <a id="link-pod" href="#" hidden>Podcast</a>
+        <a id="link-yt" href="#" hidden>YouTube · Ferchu Escola</a>
+        <a id="link-griyo" href="#" hidden>YouTube · Griyo Digital</a>
+        <a id="link-tree" href="#" hidden>Linktree</a>
+        <a id="link-pod" href="#" hidden>Podcast · Griyo Musical</a>
+        <a id="link-x" href="#" hidden>X</a>
+        <a id="link-museo" href="#" hidden>Museo Retro</a>
       </p>
     </div>
     <form id="contact-form" class="form" method="post" novalidate>
@@ -197,6 +195,8 @@
     <a href="#contacto" data-i18n="nav.quote"></a>
   </nav>
 </footer>
+
+<dialog id="lightbox" class="lightbox" aria-label="Imagen ampliada"><img src="" alt=""><p></p><button type="button">Cerrar</button></dialog>
 
 <script src="i18n.js"></script>
 <script src="config.js"></script>
