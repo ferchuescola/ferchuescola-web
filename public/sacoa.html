@@ -11,14 +11,19 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=DM+Sans:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="favicon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="stylesheet" href="style.css">
 </head>
 <body data-title="sacoa.meta">
-<a class="skip" href="#sala" data-i18n="skip">Ir al contenido</a>
+<a class="skip" href="#arcades" data-i18n="skip">Ir al contenido</a>
 
 <header class="nav">
   <a class="brand" href="index.html"><span class="brand-mark">F</span>FERCHU ESCOLA</a>
   <nav aria-label="Principal" class="nav-links">
+    <a class="sig-btn" href="index.html" aria-label="Volver al inicio / Back to home"><img src="images/firma-ferchu.png" alt="Ferchu" width="468" height="295"></a>
     <a href="index.html#trabajos" data-i18n="sacoa.back"></a>
     <span class="lang" role="group" aria-label="Idioma / Language">
       <button type="button" data-lang="es" aria-pressed="true">ES</button>
@@ -40,27 +45,34 @@
   </div>
 </section>
 
-<section id="sala" class="section">
-  <h2 data-i18n="sacoa.sala.title"></h2>
-  <p class="sub-text" data-i18n="sacoa.sala.text"></p>
-  <div id="sacoa-sala" class="grid3 works works-sm"></div>
+<section id="arcades" class="section">
+  <h2 data-i18n="sacoa.arcades.title"></h2>
+  <p class="sub-text" data-i18n="sacoa.arcades.text"></p>
+  <div class="tgrid tg-sacoa" data-sacoa-group="arcades"></div>
 </section>
 
-<section id="disenos" class="section">
-  <h2 data-i18n="sacoa.dis.title"></h2>
-  <p class="sub-text" data-i18n="sacoa.dis.text"></p>
-  <div id="sacoa-disenos" class="grid3 works works-sm"></div>
+<section id="transformers" class="section">
+  <h2 data-i18n="sacoa.transformers.title"></h2>
+  <p class="sub-text" data-i18n="sacoa.transformers.text"></p>
+  <div class="tgrid tg-sacoa" data-sacoa-group="transformers"></div>
+</section>
+
+<section id="juegos" class="section">
+  <h2 data-i18n="sacoa.juegos.title"></h2>
+  <p class="sub-text" data-i18n="sacoa.juegos.text"></p>
+  <div class="tgrid tg-sacoa" data-sacoa-group="juegos"></div>
 </section>
 
 <section id="flyers" class="section">
-  <h2 data-i18n="sacoa.fly.title"></h2>
-  <p class="sub-text" data-i18n="sacoa.fly.text"></p>
-  <div id="sacoa-flyers" class="grid3 works works-sm"></div>
+  <h2 data-i18n="sacoa.flyers.title"></h2>
+  <p class="sub-text" data-i18n="sacoa.flyers.text"></p>
+  <div class="tgrid tg-sacoa" data-sacoa-group="flyers"></div>
 </section>
 
 <section class="band cta-band">
   <h2 data-i18n="sacoa.cta"></h2>
   <p><a class="btn btn-pink" href="index.html#contacto" data-i18n="sacoa.cta.btn"></a></p>
+  <p><a class="sig-btn" href="index.html" aria-label="Volver al inicio / Back to home"><img src="images/firma-ferchu.png" alt="Ferchu" width="468" height="295"></a></p>
 </section>
 </main>
 

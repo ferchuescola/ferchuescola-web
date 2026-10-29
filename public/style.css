@@ -243,3 +243,33 @@ a.logo-item:hover{box-shadow:6px 6px 0 var(--pink)}
 @media (max-width:1100px){.works.works-sm{column-count:3}}
 @media (max-width:760px){.works.works-sm{column-count:2;column-gap:28px}}
 @media (max-width:480px){.works.works-sm{column-gap:20px}.works.works-sm .work{margin-bottom:32px}}
+
+/* Galerías ordenadas (filas parejas) */
+:root{--rh:250px}
+.wgroups{display:block}
+.work-group{margin:0 0 56px}
+.work-group-head{display:flex;flex-wrap:wrap;gap:8px 20px;align-items:baseline;justify-content:space-between;margin-bottom:22px;border-bottom:3px solid var(--ink);padding-bottom:8px}
+.work-group-head h3{font-size:clamp(20px,3vw,26px)}
+.more-btn{background:transparent;color:var(--yellow);border:0;font-family:var(--mono);font-weight:700;font-size:13px;cursor:pointer;padding:8px 0;text-decoration:underline}
+.more-btn:hover{color:var(--ink)}
+.note{font-size:13px;color:var(--muted);margin:0 0 18px}
+.tgrid{display:grid;gap:36px 28px;grid-template-columns:repeat(var(--cols,3),minmax(0,1fr));align-items:start}
+.tgrid .work{margin:0;min-width:0}
+.tgrid .work .ph{aspect-ratio:var(--ar,4/3);padding:0;display:block}
+.tgrid .ph.has-img img{position:static;width:100%;height:100%;object-fit:contain;margin:0}
+.tgrid .ph.is-logo{padding:0}
+.tgrid .ph.is-logo img{width:100%;height:100%;margin:0}
+.tg-marquees{--cols:2;--ar:3.6/1}
+.tg-logos{--cols:4;--ar:1/1}
+.tg-flyers{--cols:4;--ar:3/4}
+.tg-sacoa{--cols:4;--ar:1/1}
+.tg-sacoa .ph.has-img{background:var(--panel2)}
+.work-group + .work-group,.work-group{margin-bottom:56px}
+.ph.is-png{background-color:#fff;background-image:linear-gradient(45deg,#dcd9ec 25%,transparent 25%,transparent 75%,#dcd9ec 75%),linear-gradient(45deg,#dcd9ec 25%,transparent 25%,transparent 75%,#dcd9ec 75%);background-size:20px 20px;background-position:0 0,10px 10px}
+.sig-btn{display:inline-flex;align-items:center;border:3px solid var(--ink);padding:4px 14px;box-shadow:4px 4px 0 var(--pink);background:var(--bg);text-decoration:none}
+.sig-btn:hover{box-shadow:4px 4px 0 var(--yellow)}
+.sig-btn img{height:34px;width:auto;display:block}
+.nav-links .sig-btn{margin-right:8px}
+.foot .sig-btn{order:-1}
+@media (max-width:900px){.tgrid{--cols:2}.tg-marquees{--cols:1}}
+@media (max-width:520px){.tg-logos,.tg-flyers,.tg-sacoa{--cols:2}.tgrid{gap:28px 18px}.tgrid:not(.tg-logos):not(.tg-flyers):not(.tg-sacoa){--cols:1}}

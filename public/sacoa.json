@@ -1,22 +1,37 @@
 [
  {
-  "id": "fila-gabinetes",
-  "group": "sala",
-  "image": "images/sacoa/fila-gabinetes-thumb.jpg",
-  "full": "images/sacoa/fila-gabinetes.jpg",
+  "id": "arcades-serie-1",
+  "group": "arcades",
+  "image": "images/sacoa/arcades-serie-1-thumb.jpg",
+  "full": "images/sacoa/arcades-serie-1.jpg",
   "accent": "cyan",
   "title": {
-   "es": "Sala de arcades con marquesinas",
-   "en": "Arcade floor with marquees"
+   "es": "Arcades en serie, marquesinas propias",
+   "en": "Arcade row, my own marquees"
   },
   "desc": {
-   "es": "Gabinetes con las marquesinas ya colocadas.",
-   "en": "Cabinets with the marquees installed."
+   "es": "Todas las marquesinas de la fila son mías.",
+   "en": "Every marquee in the row is mine."
+  }
+ },
+ {
+  "id": "arcades-serie-2",
+  "group": "arcades",
+  "image": "images/sacoa/arcades-serie-2-thumb.jpg",
+  "full": "images/sacoa/arcades-serie-2.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Arcades en serie (vista de frente)",
+   "en": "Arcade row (front view)"
+  },
+  "desc": {
+   "es": "Marquesinas y toppers de cada juego.",
+   "en": "Marquees and toppers for each game."
   }
  },
  {
   "id": "mario-marquesina-2",
-  "group": "sala",
+  "group": "arcades",
   "image": "images/sacoa/mario-marquesina-2-thumb.jpg",
   "full": "images/sacoa/mario-marquesina-2.jpg",
   "accent": "yellow",
@@ -31,7 +46,7 @@
  },
  {
   "id": "simpsons-detalle",
-  "group": "sala",
+  "group": "arcades",
   "image": "images/sacoa/simpsons-detalle-thumb.jpg",
   "full": "images/sacoa/simpsons-detalle.jpg",
   "accent": "cyan",
@@ -46,7 +61,7 @@
  },
  {
   "id": "wonder-boy-detalle",
-  "group": "sala",
+  "group": "arcades",
   "image": "images/sacoa/wonder-boy-detalle-thumb.jpg",
   "full": "images/sacoa/wonder-boy-detalle.jpg",
   "accent": "pink",
@@ -61,7 +76,7 @@
  },
  {
   "id": "virtua-striker",
-  "group": "sala",
+  "group": "arcades",
   "image": "images/sacoa/virtua-striker-thumb.jpg",
   "full": "images/sacoa/virtua-striker.jpg",
   "accent": "yellow",
@@ -76,7 +91,7 @@
  },
  {
   "id": "tmnt-2",
-  "group": "sala",
+  "group": "arcades",
   "image": "images/sacoa/tmnt-2-thumb.jpg",
   "full": "images/sacoa/tmnt-2.jpg",
   "accent": "pink",
@@ -90,8 +105,113 @@
   }
  },
  {
+  "id": "mario-totem",
+  "group": "arcades",
+  "image": "images/sacoa/mario-totem-thumb.jpg",
+  "full": "images/sacoa/mario-totem.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Super Mario Bros · topper",
+   "en": "Super Mario Bros · topper"
+  },
+  "desc": {
+   "es": "Montaje del topper sobre el gabinete.",
+   "en": "Mockup of the topper on the cabinet."
+  }
+ },
+ {
+  "id": "transformers-gabinete",
+  "group": "transformers",
+  "image": "images/sacoa/transformers-gabinete-thumb.jpg",
+  "full": "images/sacoa/transformers-gabinete.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Transformers Human Alliance",
+   "en": "Transformers Human Alliance"
+  },
+  "desc": {
+   "es": "Gabinete en sala con las gráficas y el panel.",
+   "en": "Cabinet on the floor with the graphics and panel."
+  }
+ },
+ {
+  "id": "transformers-gabinete-lateral",
+  "group": "transformers",
+  "image": "images/sacoa/transformers-gabinete-lateral-thumb.jpg",
+  "full": "images/sacoa/transformers-gabinete-lateral.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Transformers, vista lateral",
+   "en": "Transformers, side view"
+  },
+  "desc": {
+   "es": "Gráficas laterales y del mueble ya colocadas.",
+   "en": "Side and cabinet graphics installed."
+  }
+ },
+ {
+  "id": "transformers-marquesina",
+  "group": "transformers",
+  "image": "images/sacoa/transformers-marquesina-thumb.jpg",
+  "full": "images/sacoa/transformers-marquesina.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Transformers · marquesina",
+   "en": "Transformers · marquee"
+  },
+  "desc": {
+   "es": "Marquesina del gabinete.",
+   "en": "Cabinet marquee."
+  }
+ },
+ {
+  "id": "transformers-lateral-1",
+  "group": "transformers",
+  "image": "images/sacoa/transformers-lateral-1-thumb.jpg",
+  "full": "images/sacoa/transformers-lateral-1.jpg",
+  "accent": "pink",
+  "title": {
+   "es": "Transformers · lateral (Bumblebee)",
+   "en": "Transformers · side panel (Bumblebee)"
+  },
+  "desc": {
+   "es": "Gráfica lateral del mueble.",
+   "en": "Cabinet side graphic."
+  }
+ },
+ {
+  "id": "transformers-lateral-2",
+  "group": "transformers",
+  "image": "images/sacoa/transformers-lateral-2-thumb.jpg",
+  "full": "images/sacoa/transformers-lateral-2.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Transformers · lateral (Optimus)",
+   "en": "Transformers · side panel (Optimus)"
+  },
+  "desc": {
+   "es": "Gráfica lateral del mueble.",
+   "en": "Cabinet side graphic."
+  }
+ },
+ {
+  "id": "transformers-panel-es",
+  "group": "transformers",
+  "image": "images/sacoa/transformers-panel-es-thumb.jpg",
+  "full": "images/sacoa/transformers-panel-es.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Transformers · panel de controles",
+   "en": "Transformers · control panel"
+  },
+  "desc": {
+   "es": "Instrucciones del panel, traducidas y rediseñadas.",
+   "en": "Panel instructions, translated and redesigned."
+  }
+ },
+ {
   "id": "striker-sala-2",
-  "group": "sala",
+  "group": "juegos",
   "image": "images/sacoa/striker-sala-2-thumb.jpg",
   "full": "images/sacoa/striker-sala-2.jpg",
   "accent": "yellow",
@@ -106,7 +226,7 @@
  },
  {
   "id": "shot-a-winner-nueva-1",
-  "group": "sala",
+  "group": "juegos",
   "image": "images/sacoa/shot-a-winner-nueva-1-thumb.jpg",
   "full": "images/sacoa/shot-a-winner-nueva-1.jpg",
   "accent": "cyan",
@@ -120,38 +240,23 @@
   }
  },
  {
-  "id": "transformers-panel",
-  "group": "sala",
-  "image": "images/sacoa/transformers-panel-thumb.jpg",
-  "full": "images/sacoa/transformers-panel.jpg",
-  "accent": "cyan",
-  "title": {
-   "es": "Panel Transformers",
-   "en": "Transformers panel"
-  },
-  "desc": {
-   "es": "Gráficas e instrucciones del panel, diseñadas completas.",
-   "en": "Panel graphics and instructions, fully designed."
-  }
- },
- {
-  "id": "transformers-gabinete",
-  "group": "sala",
-  "image": "images/sacoa/transformers-gabinete-thumb.jpg",
-  "full": "images/sacoa/transformers-gabinete.jpg",
+  "id": "shot-a-winner",
+  "group": "juegos",
+  "image": "images/sacoa/shot-a-winner-thumb.jpg",
+  "full": "images/sacoa/shot-a-winner.jpg",
   "accent": "yellow",
   "title": {
-   "es": "Transformers Human Alliance",
-   "en": "Transformers Human Alliance"
+   "es": "Shot a Winner, antes",
+   "en": "Shot a Winner, before"
   },
   "desc": {
-   "es": "Gabinete en sala con las gráficas y el panel.",
-   "en": "Cabinet on the floor with the graphics and panel."
+   "es": "Las cabinas con la gráfica anterior.",
+   "en": "The cabinets with the previous graphics."
   }
  },
  {
   "id": "promo-verano-detalle",
-  "group": "sala",
+  "group": "juegos",
   "image": "images/sacoa/promo-verano-detalle-thumb.jpg",
   "full": "images/sacoa/promo-verano-detalle.jpg",
   "accent": "cyan",
@@ -166,7 +271,7 @@
  },
  {
   "id": "vr-experience",
-  "group": "sala",
+  "group": "juegos",
   "image": "images/sacoa/vr-experience-thumb.jpg",
   "full": "images/sacoa/vr-experience.jpg",
   "accent": "cyan",
@@ -177,81 +282,6 @@
   "desc": {
    "es": "Cartel de la sala de realidad virtual.",
    "en": "Sign for the virtual reality room."
-  }
- },
- {
-  "id": "mario-totem",
-  "group": "disenos",
-  "image": "images/sacoa/mario-totem-thumb.jpg",
-  "full": "images/sacoa/mario-totem.jpg",
-  "accent": "yellow",
-  "title": {
-   "es": "Super Mario Bros · topper",
-   "en": "Super Mario Bros · topper"
-  },
-  "desc": {
-   "es": "Montaje del topper sobre el gabinete.",
-   "en": "Mockup of the topper on the cabinet."
-  }
- },
- {
-  "id": "photocenter-instrucciones",
-  "group": "disenos",
-  "image": "images/sacoa/photocenter-instrucciones-thumb.jpg",
-  "full": "images/sacoa/photocenter-instrucciones.jpg",
-  "accent": "cyan",
-  "title": {
-   "es": "Photo Center · instrucciones",
-   "en": "Photo Center · instructions"
-  },
-  "desc": {
-   "es": "Cartel de instrucciones de la cabina de fotos.",
-   "en": "Instructions sign for the photo booth."
-  }
- },
- {
-  "id": "photocenter-grafica",
-  "group": "disenos",
-  "image": "images/sacoa/photocenter-grafica-thumb.jpg",
-  "full": "images/sacoa/photocenter-grafica.jpg",
-  "accent": "pink",
-  "title": {
-   "es": "Photo Center · gráfica",
-   "en": "Photo Center · graphic"
-  },
-  "desc": {
-   "es": "Gráfica vertical para cubrir la marca original de la cabina.",
-   "en": "Vertical graphic to cover the booth’s original branding."
-  }
- },
- {
-  "id": "photocenter-frente",
-  "group": "disenos",
-  "image": "images/sacoa/photocenter-frente-thumb.jpg",
-  "full": "images/sacoa/photocenter-frente.jpg",
-  "accent": "cyan",
-  "title": {
-   "es": "Cabina original, antes (frente)",
-   "en": "Original booth, before (front)"
-  },
-  "desc": {
-   "es": "Así llegó la cabina, todavía sin mis gráficas.",
-   "en": "How the booth arrived, before my graphics."
-  }
- },
- {
-  "id": "shot-a-winner",
-  "group": "disenos",
-  "image": "images/sacoa/shot-a-winner-thumb.jpg",
-  "full": "images/sacoa/shot-a-winner.jpg",
-  "accent": "yellow",
-  "title": {
-   "es": "Shot a Winner, antes",
-   "en": "Shot a Winner, before"
-  },
-  "desc": {
-   "es": "Las cabinas con la gráfica anterior.",
-   "en": "The cabinets with the previous graphics."
   }
  },
  {
