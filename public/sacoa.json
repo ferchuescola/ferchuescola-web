@@ -45,10 +45,10 @@
   }
  },
  {
-  "id": "simpsons",
+  "id": "simpsons-detalle",
   "group": "sala",
-  "image": "images/sacoa/simpsons-thumb.jpg",
-  "full": "images/sacoa/simpsons.jpg",
+  "image": "images/sacoa/simpsons-detalle-thumb.jpg",
+  "full": "images/sacoa/simpsons-detalle.jpg",
   "accent": "cyan",
   "title": {
    "es": "Marquesina The Simpsons",
@@ -60,10 +60,10 @@
   }
  },
  {
-  "id": "wonder-boy",
+  "id": "wonder-boy-detalle",
   "group": "sala",
-  "image": "images/sacoa/wonder-boy-thumb.jpg",
-  "full": "images/sacoa/wonder-boy.jpg",
+  "image": "images/sacoa/wonder-boy-detalle-thumb.jpg",
+  "full": "images/sacoa/wonder-boy-detalle.jpg",
   "accent": "pink",
   "title": {
    "es": "Marquesina Wonder Boy",
@@ -120,10 +120,10 @@
   }
  },
  {
-  "id": "striker-sala",
+  "id": "striker-sala-2",
   "group": "sala",
-  "image": "images/sacoa/striker-sala-thumb.jpg",
-  "full": "images/sacoa/striker-sala.jpg",
+  "image": "images/sacoa/striker-sala-2-thumb.jpg",
+  "full": "images/sacoa/striker-sala-2.jpg",
   "accent": "yellow",
   "title": {
    "es": "Striker en sala",
@@ -132,6 +132,36 @@
   "desc": {
    "es": "Frentes de las dos pistas de bowling con mi arte.",
    "en": "Fronts of the two bowling lanes with my artwork."
+  }
+ },
+ {
+  "id": "shot-a-winner-nueva-1",
+  "group": "sala",
+  "image": "images/sacoa/shot-a-winner-nueva-1-thumb.jpg",
+  "full": "images/sacoa/shot-a-winner-nueva-1.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Shot a Winner, gráfica nueva",
+   "en": "Shot a Winner, new graphics"
+  },
+  "desc": {
+   "es": "Cabina con la gráfica rediseñada.",
+   "en": "Cabinet with the redesigned graphics."
+  }
+ },
+ {
+  "id": "shot-a-winner-nueva-2",
+  "group": "sala",
+  "image": "images/sacoa/shot-a-winner-nueva-2-thumb.jpg",
+  "full": "images/sacoa/shot-a-winner-nueva-2.jpg",
+  "accent": "pink",
+  "title": {
+   "es": "Shot a Winner (frente)",
+   "en": "Shot a Winner (front)"
+  },
+  "desc": {
+   "es": "Mueble y tubo con la gráfica nueva.",
+   "en": "Base and tube with the new graphics."
   }
  },
  {
@@ -165,6 +195,21 @@
   }
  },
  {
+  "id": "transformers-gabinete",
+  "group": "sala",
+  "image": "images/sacoa/transformers-gabinete-thumb.jpg",
+  "full": "images/sacoa/transformers-gabinete.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Transformers Human Alliance",
+   "en": "Transformers Human Alliance"
+  },
+  "desc": {
+   "es": "Gabinete en sala con las gráficas y el panel.",
+   "en": "Cabinet on the floor with the graphics and panel."
+  }
+ },
+ {
   "id": "promo-verano-sala",
   "group": "sala",
   "image": "images/sacoa/promo-verano-sala-thumb.jpg",
@@ -192,6 +237,81 @@
   "desc": {
    "es": "La gráfica de cerca, con el cajón encendido.",
    "en": "Close-up of the graphic, light box on."
+  }
+ },
+ {
+  "id": "vr-experience",
+  "group": "sala",
+  "image": "images/sacoa/vr-experience-thumb.jpg",
+  "full": "images/sacoa/vr-experience.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Sacoa VR Experience",
+   "en": "Sacoa VR Experience"
+  },
+  "desc": {
+   "es": "Cartel de la sala de realidad virtual.",
+   "en": "Sign for the virtual reality room."
+  }
+ },
+ {
+  "id": "vr-experience",
+  "group": "sala",
+  "image": "images/sacoa/vr-experience-thumb.jpg",
+  "full": "images/sacoa/vr-experience.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Sacoa VR Experience",
+   "en": "Sacoa VR Experience"
+  },
+  "desc": {
+   "es": "Gráfica de pared de la sala de realidad virtual.",
+   "en": "Wall graphic for the virtual reality room."
+  }
+ },
+ {
+  "id": "shot-a-winner-nuevo-1",
+  "group": "sala",
+  "image": "images/sacoa/shot-a-winner-nuevo-1-thumb.jpg",
+  "full": "images/sacoa/shot-a-winner-nuevo-1.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Shot a Winner, gráfica nueva",
+   "en": "Shot a Winner, new graphics"
+  },
+  "desc": {
+   "es": "Cabina renovada con la nueva gráfica.",
+   "en": "Cabinet refreshed with the new graphics."
+  }
+ },
+ {
+  "id": "shot-a-winner-nuevo-2",
+  "group": "sala",
+  "image": "images/sacoa/shot-a-winner-nuevo-2-thumb.jpg",
+  "full": "images/sacoa/shot-a-winner-nuevo-2.jpg",
+  "accent": "pink",
+  "title": {
+   "es": "Shot a Winner, frente",
+   "en": "Shot a Winner, front"
+  },
+  "desc": {
+   "es": "Frente y laterales con la nueva gráfica.",
+   "en": "Front and sides with the new graphics."
+  }
+ },
+ {
+  "id": "transformers-sala",
+  "group": "sala",
+  "image": "images/sacoa/transformers-sala-thumb.jpg",
+  "full": "images/sacoa/transformers-sala.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Gabinete Transformers en sala",
+   "en": "Transformers cabinet on site"
+  },
+  "desc": {
+   "es": "El gabinete completo, con el panel que diseñé.",
+   "en": "The full cabinet, with the panel I designed."
   }
  },
  {
@@ -282,6 +402,36 @@
   "desc": {
    "es": "Así llegó la cabina, todavía sin mis gráficas.",
    "en": "How the booth arrived, before my graphics."
+  }
+ },
+ {
+  "id": "shot-a-winner",
+  "group": "disenos",
+  "image": "images/sacoa/shot-a-winner-thumb.jpg",
+  "full": "images/sacoa/shot-a-winner.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Shot a Winner, antes",
+   "en": "Shot a Winner, before"
+  },
+  "desc": {
+   "es": "Las cabinas con la gráfica anterior.",
+   "en": "The cabinets with the previous graphics."
+  }
+ },
+ {
+  "id": "shot-a-winner",
+  "group": "disenos",
+  "image": "images/sacoa/shot-a-winner-thumb.jpg",
+  "full": "images/sacoa/shot-a-winner.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Shot a Winner, antes",
+   "en": "Shot a Winner, before"
+  },
+  "desc": {
+   "es": "Cabinas con la gráfica anterior.",
+   "en": "Cabinets with the previous graphics."
   }
  }
 ]
