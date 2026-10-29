@@ -1,746 +1,626 @@
 [
-  {
-    "id": "7up",
-    "category": "vectors",
-    "accent": "cyan",
-    "image": "images/works/7up.jpg",
-    "title": {
-      "es": "Lata 7UP, 1992",
-      "en": "7UP can, 1992"
-    },
-    "desc": {
-      "es": "Diseño vectorizado a mano.",
-      "en": "Hand-vectorized design."
-    }
+ {
+  "id": "7up",
+  "category": "vectors",
+  "accent": "cyan",
+  "image": "images/works/7up.jpg",
+  "title": {
+   "es": "Lata 7UP, 1992",
+   "en": "7UP can, 1992"
   },
-  {
-    "id": "perro",
-    "category": "logos",
-    "accent": "pink",
-    "image": "images/works/perro.jpg",
-    "title": {
-      "es": "Del boceto al personaje",
-      "en": "From sketch to character"
-    },
-    "desc": {
-      "es": "Boceto a lápiz convertido en personaje vectorial.",
-      "en": "Pencil sketch turned into a vector character."
-    }
-  },
-  {
-    "id": "pinball",
-    "category": "vectors",
-    "accent": "yellow",
-    "image": "images/works/pinball.jpg",
-    "title": {
-      "es": "Cartucho Pinball",
-      "en": "Pinball cartridge"
-    },
-    "desc": {
-      "es": "Etiqueta de cartucho vectorizada.",
-      "en": "Vectorized cartridge label."
-    }
-  },
-  {
-    "id": "mario-cartucho",
-    "category": "mixed",
-    "accent": "magenta",
-    "image": "images/works/mario-cartucho.jpg",
-    "title": {
-      "es": "Cartucho Mario Bros.",
-      "en": "Mario Bros. cartridge"
-    },
-    "desc": {
-      "es": "Cartucho vectorial con etiqueta en mapa de bits.",
-      "en": "Vector cartridge with a bitmap label."
-    }
-  },
-  {
-    "id": "volturno",
-    "category": "vectors",
-    "accent": "cyan",
-    "image": "images/works/volturno.jpg",
-    "title": {
-      "es": "Cafetera Volturno",
-      "en": "Volturno coffee maker"
-    },
-    "desc": {
-      "es": "Detalle de la cafetera, vectorizado a mano.",
-      "en": "Coffee maker detail, hand-vectorized."
-    }
-  },
-  {
-    "id": "bart",
-    "category": "logos",
-    "accent": "yellow",
-    "image": "images/works/bart.jpg",
-    "title": {
-      "es": "Sticker de 1990",
-      "en": "1990 sticker"
-    },
-    "desc": {
-      "es": "Sticker vectorizado, trazo por trazo.",
-      "en": "Sticker vectorized stroke by stroke."
-    }
-  },
-  {
-    "id": "nave",
-    "category": "vectors",
-    "accent": "pink",
-    "image": "images/works/nave.jpg",
-    "title": {
-      "es": "Modelo de nave",
-      "en": "Spaceship model"
-    },
-    "desc": {
-      "es": "Vectorización a partir de una fotografía.",
-      "en": "Vectorized from a photograph."
-    }
-  },
-  {
-    "id": "felfort",
-    "category": "vectors",
-    "accent": "yellow",
-    "image": "images/works/felfort.jpg",
-    "title": {
-      "es": "Chocolates FelFort",
-      "en": "FelFort chocolates"
-    },
-    "desc": {
-      "es": "Golosinas ilustradas a mano, una por una.",
-      "en": "Sweets hand-illustrated, one by one."
-    }
-  },
-  {
-    "id": "insert-coin",
-    "category": "tablet",
-    "accent": "pink",
-    "image": "images/works/insert-coin.jpg",
-    "title": {
-      "es": "Insert coin",
-      "en": "Insert coin"
-    },
-    "desc": {
-      "es": "Neón dibujado a mano con tableta.",
-      "en": "Neon sign hand-drawn on a tablet."
-    }
-  },
-  {
-    "id": "fichines-arcade",
-    "category": "tablet",
-    "accent": "cyan",
-    "image": "images/works/fichines-arcade.jpg",
-    "title": {
-      "es": "Fichines arcade",
-      "en": "Fichines arcade"
-    },
-    "desc": {
-      "es": "Boceto digital sobre una hoja de cuaderno.",
-      "en": "Digital sketch on a notebook page."
-    }
-  },
-  {
-    "id": "battle-cat",
-    "category": "tablet",
-    "accent": "yellow",
-    "image": "images/works/battle-cat.jpg",
-    "title": {
-      "es": "Sticker Battle Cat",
-      "en": "Battle Cat sticker"
-    },
-    "desc": {
-      "es": "Ilustración a mano con tableta.",
-      "en": "Hand-drawn illustration on a tablet."
-    }
-  },
-  {
-    "id": "retrato",
-    "category": "tablet",
-    "accent": "pink",
-    "image": "images/works/retrato.jpg",
-    "title": {
-      "es": "Retrato lineal",
-      "en": "Line-art portrait"
-    },
-    "desc": {
-      "es": "Trazo a mano alzada en vectores.",
-      "en": "Freehand strokes in vectors."
-    }
-  },
-  {
-    "id": "family-game-boceto",
-    "category": "tablet",
-    "accent": "cyan",
-    "image": "images/works/family-game-boceto.jpg",
-    "title": {
-      "es": "Boceto de Family Game",
-      "en": "Family Game sketch"
-    },
-    "desc": {
-      "es": "Boceto digital de la consola.",
-      "en": "Digital sketch of the console."
-    }
-  },
-  {
-    "id": "gameboy-35",
-    "category": "tablet",
-    "accent": "yellow",
-    "image": "images/works/gameboy-35.jpg",
-    "title": {
-      "es": "Game Boy, 35 años",
-      "en": "Game Boy, 35 years"
-    },
-    "desc": {
-      "es": "Ilustración homenaje dibujada a mano.",
-      "en": "Tribute illustration drawn by hand."
-    }
-  },
-  {
-    "id": "game-genie",
-    "category": "tablet",
-    "accent": "pink",
-    "image": "images/works/game-genie.jpg",
-    "title": {
-      "es": "Game Genie",
-      "en": "Game Genie"
-    },
-    "desc": {
-      "es": "Ilustración a mano en vectores.",
-      "en": "Hand-drawn vector illustration."
-    }
-  },
-  {
-    "id": "wii",
-    "category": "tablet",
-    "accent": "cyan",
-    "image": "images/works/wii.jpg",
-    "title": {
-      "es": "Wii",
-      "en": "Wii"
-    },
-    "desc": {
-      "es": "Boceto a mano alzada de la consola y el control.",
-      "en": "Freehand sketch of the console and controller."
-    }
-  },
-  {
-    "id": "marq-intriga",
-    "category": "marquees",
-    "accent": "pink",
-    "image": "images/works/marq-intriga.jpg",
-    "title": {
-      "es": "Marquesina “Intriga Video Juegos”",
-      "en": "“Intriga Video Juegos” marquee"
-    },
-    "desc": {
-      "es": "Neón y espacio profundo, con naves y astronauta.",
-      "en": "Neon lettering over deep space, with ships and an astronaut."
-    }
-  },
-  {
-    "id": "marq-space-invaders",
-    "category": "marquees",
-    "accent": "yellow",
-    "image": "images/works/marq-space-invaders.jpg",
-    "title": {
-      "es": "Marquesina Space Invaders",
-      "en": "Space Invaders marquee"
-    },
-    "desc": {
-      "es": "Pop art con puntos de semitono y letras en relieve.",
-      "en": "Pop art with halftone dots and extruded lettering."
-    }
-  },
-  {
-    "id": "marq-star-wars",
-    "category": "marquees",
-    "accent": "cyan",
-    "image": "images/works/marq-star-wars.jpg",
-    "title": {
-      "es": "Marquesina Star Wars (Atari)",
-      "en": "Star Wars (Atari) marquee"
-    },
-    "desc": {
-      "es": "Grilla vectorial azul con naves y logo.",
-      "en": "Blue vector grid with ships and logo."
-    }
-  },
-  {
-    "id": "marq-new-video-games",
-    "category": "marquees",
-    "accent": "pink",
-    "image": "images/works/marq-new-video-games.jpg",
-    "title": {
-      "es": "Marquesina “New Video Games”",
-      "en": "“New Video Games” marquee"
-    },
-    "desc": {
-      "es": "Collage de paisajes y minotauro, letras cromadas.",
-      "en": "Landscape collage with a minotaur and chrome lettering."
-    }
-  },
-  {
-    "id": "marq-video-games",
-    "category": "marquees",
-    "accent": "cyan",
-    "image": "images/works/marq-video-games.jpg",
-    "title": {
-      "es": "Marquesina “Video Games”",
-      "en": "“Video Games” marquee"
-    },
-    "desc": {
-      "es": "Letras cromadas sobre un atardecer ilustrado.",
-      "en": "Chrome lettering over an illustrated sunset."
-    }
-  },
-  {
-    "id": "marq-videojuegos",
-    "category": "marquees",
-    "accent": "yellow",
-    "image": "images/works/marq-videojuegos.jpg",
-    "title": {
-      "es": "Marquesina “Videojuegos”",
-      "en": "“Videojuegos” marquee"
-    },
-    "desc": {
-      "es": "Estilo comic de terror con trama de puntos.",
-      "en": "Horror-comic style with halftone texture."
-    }
-  },
-  {
-    "id": "marq-video-juegos",
-    "category": "marquees",
-    "accent": "pink",
-    "image": "images/works/marq-video-juegos.jpg",
-    "title": {
-      "es": "Marquesina “Video Juegos”",
-      "en": "“Video Juegos” marquee"
-    },
-    "desc": {
-      "es": "Letras retro 80s con personajes y grilla.",
-      "en": "Retro 80s lettering with characters and grid."
-    }
-  },
-  {
-    "id": "lowpoly-perra",
-    "category": "vectors",
-    "accent": "pink",
-    "image": "images/works/lowpoly-perra.jpg",
-    "title": {
-      "es": "Bernarda, Low Poly",
-      "en": "Bernarda, Low Poly"
-    },
-    "desc": {
-      "es": "Homenaje a mi perra. Trabajo personal.",
-      "en": "Tribute to my dog. Personal work."
-    }
-  },
-  {
-    "id": "lowpoly-piloto",
-    "category": "vectors",
-    "accent": "cyan",
-    "image": "images/works/lowpoly-piloto.jpg",
-    "title": {
-      "es": "Homenaje a Franco Colapinto",
-      "en": "Tribute to Franco Colapinto"
-    },
-    "desc": {
-      "es": "Low Poly por su primer año en Fórmula 1. Trabajo personal.",
-      "en": "Low Poly for his first Formula 1 season. Personal work."
-    }
-  },
-  {
-    "id": "flyer-recital-2-minutos",
-    "category": "flyers",
-    "accent": "yellow",
-    "image": "images/works/flyer-recital-2-minutos.jpg",
-    "title": {
-      "es": "Sobreviví al recital de 2 minutos",
-      "en": "I survived the 2-minute concert"
-    },
-    "desc": {
-      "es": "Afiche tipográfico con trama de puntos.",
-      "en": "Typographic poster with halftone dots."
-    }
-  },
-  {
-    "id": "flyer-toda-america-unida",
-    "category": "flyers",
-    "accent": "cyan",
-    "image": "images/works/flyer-toda-america-unida.jpg",
-    "title": {
-      "es": "Toda América unida",
-      "en": "All of America united"
-    },
-    "desc": {
-      "es": "Tipografía deformada sobre el mapa del continente.",
-      "en": "Warped lettering over a map of the continent."
-    }
-  },
-  {
-    "id": "flyer-tecnico-sistemas",
-    "category": "flyers",
-    "accent": "pink",
-    "image": "images/works/flyer-tecnico-sistemas.jpg",
-    "title": {
-      "es": "Técnico en Sistemas",
-      "en": "Computer technician"
-    },
-    "desc": {
-      "es": "Flyer con una pantalla de tablet como mensaje.",
-      "en": "Flyer designed as a tablet screen."
-    }
-  },
-  {
-    "id": "flyer-sacoa-cumple-1",
-    "category": "flyers",
-    "accent": "yellow",
-    "image": "images/works/flyer-sacoa-cumple-1.jpg",
-    "title": {
-      "es": "Cumpleaños en Sacoa",
-      "en": "Birthday parties at Sacoa"
-    },
-    "desc": {
-      "es": "Flyer de promoción para salón de cumpleaños.",
-      "en": "Promo flyer for a birthday party room."
-    },
-    "client": "sacoa"
-  },
-  {
-    "id": "flyer-sacoa-cumple-2",
-    "category": "flyers",
-    "accent": "pink",
-    "image": "images/works/flyer-sacoa-cumple-2.jpg",
-    "title": {
-      "es": "Cumpleaños en Sacoa, versión 2",
-      "en": "Birthday parties at Sacoa, version 2"
-    },
-    "desc": {
-      "es": "Otra versión del flyer, con tarjeta de regalo.",
-      "en": "Another version, with a gift card."
-    },
-    "client": "sacoa"
-  },
-  {
-    "id": "flyer-sacoa-vale",
-    "category": "flyers",
-    "accent": "cyan",
-    "image": "images/works/flyer-sacoa-vale.jpg",
-    "title": {
-      "es": "Vale Sacoa",
-      "en": "Sacoa voucher"
-    },
-    "desc": {
-      "es": "Vale por 2 horas de juegos de cortesía.",
-      "en": "Voucher for 2 courtesy hours of games."
-    },
-    "client": "sacoa"
-  },
-  {
-    "id": "logo-cloud-center",
-    "category": "logos",
-    "accent": "cyan",
-    "image": "images/logos/logo-cloud-center-thumb.png",
-    "full": "images/logos/logo-cloud-center.png",
-    "title": {
-      "es": "Cloud Center",
-      "en": "Cloud Center"
-    },
-    "desc": {
-      "es": "Logo de centro de atención con auriculares y nube.",
-      "en": "Call-center logo with a headset and cloud."
-    },
-    "client": "particulares"
-  },
-  {
-    "id": "logo-coleccionista-random",
-    "category": "logos",
-    "accent": "yellow",
-    "image": "images/logos/logo-coleccionista-random-thumb.png",
-    "full": "images/logos/logo-coleccionista-random.png",
-    "title": {
-      "es": "Soy Coleccionista Random",
-      "en": "Soy Coleccionista Random"
-    },
-    "desc": {
-      "es": "Tipografías cromadas con relieve para coleccionistas. Para un grupo de amigos.",
-      "en": "Chrome extruded lettering for collectors. For a group of friends."
-    }
-  },
-  {
-    "id": "logo-griyo-digital",
-    "category": "logos",
-    "accent": "pink",
-    "image": "images/logos/logo-griyo-digital-thumb.png",
-    "full": "images/logos/logo-griyo-digital.png",
-    "title": {
-      "es": "Griyo Digital",
-      "en": "Griyo Digital"
-    },
-    "desc": {
-      "es": "Logo de mi canal de YouTube. Proyecto personal.",
-      "en": "Logo for my YouTube channel. Personal project."
-    }
-  },
-  {
-    "id": "logo-griyo-musical",
-    "category": "logos",
-    "accent": "yellow",
-    "image": "images/logos/logo-griyo-musical-thumb.png",
-    "full": "images/logos/logo-griyo-musical.png",
-    "title": {
-      "es": "Griyo Musical",
-      "en": "Griyo Musical"
-    },
-    "desc": {
-      "es": "Logo de mi podcast. Proyecto personal.",
-      "en": "Logo for my podcast. Personal project."
-    }
-  },
-  {
-    "id": "logo-gausachs",
-    "category": "logos",
-    "accent": "yellow",
-    "image": "images/logos/logo-gausachs-thumb.png",
-    "full": "images/logos/logo-gausachs.png",
-    "title": {
-      "es": "Gausachs Propiedades",
-      "en": "Gausachs Propiedades"
-    },
-    "desc": {
-      "es": "Logo inmobiliario dorado sobre fondo oscuro.",
-      "en": "Golden real-estate logo on a dark background."
-    }
-  },
-  {
-    "id": "logo-mdm-electro-montajes",
-    "category": "logos",
-    "accent": "cyan",
-    "image": "images/logos/logo-mdm-electro-montajes-thumb.png",
-    "full": "images/logos/logo-mdm-electro-montajes.png",
-    "title": {
-      "es": "MDM Electro Montajes",
-      "en": "MDM Electro Montajes"
-    },
-    "desc": {
-      "es": "Letras en perspectiva con volumen.",
-      "en": "Lettering in perspective with depth."
-    },
-    "client": "particulares"
-  },
-  {
-    "id": "logo-microcine",
-    "category": "logos",
-    "accent": "yellow",
-    "image": "images/logos/logo-microcine-thumb.png",
-    "full": "images/logos/logo-microcine.png",
-    "title": {
-      "es": "Micro Cine",
-      "en": "Micro Cine"
-    },
-    "desc": {
-      "es": "Un micro escolar con ventanillas de película. Proyecto personal.",
-      "en": "A school bus with film-strip windows. Personal project."
-    }
-  },
-  {
-    "id": "logo-munay",
-    "category": "logos",
-    "accent": "pink",
-    "image": "images/logos/logo-munay-thumb.png",
-    "full": "images/logos/logo-munay.png",
-    "title": {
-      "es": "Munay Pastelería Artesanal",
-      "en": "Munay Artisan Bakery"
-    },
-    "desc": {
-      "es": "Trazo a línea continua con porción de torta.",
-      "en": "Continuous-line style with a cake slice."
-    },
-    "client": "particulares"
-  },
-  {
-    "id": "logo-museo-retro",
-    "category": "logos",
-    "accent": "yellow",
-    "image": "images/logos/logo-museo-retro-thumb.png",
-    "full": "images/logos/logo-museo-retro.png",
-    "title": {
-      "es": "Museo Retro",
-      "en": "Museo Retro"
-    },
-    "desc": {
-      "es": "Letras con contornos de colores. Proyecto personal.",
-      "en": "Lettering with colored outlines. Personal project."
-    }
-  },
-  {
-    "id": "logo-octis",
-    "category": "logos",
-    "accent": "cyan",
-    "image": "images/logos/logo-octis-thumb.png",
-    "full": "images/logos/logo-octis.png",
-    "title": {
-      "es": "Octi’s",
-      "en": "Octi’s"
-    },
-    "desc": {
-      "es": "Gorro de cocina y caligrafía en un solo trazo.",
-      "en": "Chef hat and calligraphy in one stroke."
-    },
-    "client": "particulares"
-  },
-  {
-    "id": "logo-raro-vhs",
-    "category": "logos",
-    "accent": "pink",
-    "image": "images/logos/logo-raro-vhs-thumb.png",
-    "full": "images/logos/logo-raro-vhs.png",
-    "title": {
-      "es": "Raro VHS",
-      "en": "Raro VHS"
-    },
-    "desc": {
-      "es": "Efecto glitch de cinta VHS, desde 2009.",
-      "en": "VHS tape glitch effect, since 2009."
-    },
-    "client": "particulares"
-  },
-  {
-    "id": "logo-renegados-ciudadela",
-    "category": "logos",
-    "accent": "yellow",
-    "image": "images/logos/logo-renegados-ciudadela-thumb.png",
-    "full": "images/logos/logo-renegados-ciudadela.png",
-    "title": {
-      "es": "Renegados Ciudadela",
-      "en": "Renegados Ciudadela"
-    },
-    "desc": {
-      "es": "Insignia de comunidad con personaje ilustrado. Para un grupo de amigos.",
-      "en": "Community badge with an illustrated character. For a group of friends."
-    }
-  },
-  {
-    "id": "logo-seguridad-electronica",
-    "category": "logos",
-    "accent": "cyan",
-    "image": "images/logos/logo-seguridad-electronica-thumb.png",
-    "full": "images/logos/logo-seguridad-electronica.png",
-    "title": {
-      "es": "Seguridad Electrónica",
-      "en": "Electronic Security"
-    },
-    "desc": {
-      "es": "Cámaras, candado y huella en un escudo.",
-      "en": "Cameras, padlock and fingerprint in a badge."
-    },
-    "client": "particulares"
-  },
-  {
-    "id": "logo-trekking",
-    "category": "logos",
-    "accent": "pink",
-    "image": "images/logos/logo-trekking-thumb.png",
-    "full": "images/logos/logo-trekking.png",
-    "title": {
-      "es": "Guía de senderismo, Patagonia",
-      "en": "Patagonia hiking guide"
-    },
-    "desc": {
-      "es": "Logo para un guía de senderismo de la Patagonia: caminante, cóndor y cordillera.",
-      "en": "Logo for a Patagonia hiking guide: hiker, condor and mountains."
-    },
-    "client": "particulares"
-  },
-  {
-    "id": "flyer-levotrax",
-    "category": "flyers",
-    "accent": "cyan",
-    "image": "images/works/flyer-levotrax.jpg",
-    "title": {
-      "es": "Levotrax, laboratorio",
-      "en": "Levotrax, pharma lab"
-    },
-    "desc": {
-      "es": "Gráfica estilo videojuego de naves para un laboratorio.",
-      "en": "Space-shooter style graphic for a pharmaceutical lab."
-    },
-    "client": "particulares"
-  },
-  {
-    "id": "flyer-sacoa-promo-verano",
-    "category": "flyers",
-    "accent": "yellow",
-    "image": "images/works/flyer-sacoa-promo-verano.jpg",
-    "title": {
-      "es": "Promo Verano, Sacoa",
-      "en": "Summer Promo, Sacoa"
-    },
-    "desc": {
-      "es": "Flyer de promoción con formas geométricas.",
-      "en": "Promo flyer with geometric shapes."
-    },
-    "client": "sacoa"
-  },
-  {
-    "id": "flyer-sacoa-carga-redonda",
-    "category": "flyers",
-    "accent": "pink",
-    "image": "images/works/flyer-sacoa-carga-redonda.jpg",
-    "title": {
-      "es": "Carga Redonda, Sacoa",
-      "en": "Carga Redonda, Sacoa"
-    },
-    "desc": {
-      "es": "Flyer de promoción de cargas, todos los días.",
-      "en": "Daily top-up promo flyer."
-    },
-    "client": "sacoa"
-  },
-  {
-    "id": "flyer-sacoa-vr",
-    "category": "flyers",
-    "accent": "cyan",
-    "image": "images/works/flyer-sacoa-vr.jpg",
-    "title": {
-      "es": "VR Experience, Sacoa",
-      "en": "VR Experience, Sacoa"
-    },
-    "desc": {
-      "es": "Banner para la atracción de realidad virtual.",
-      "en": "Banner for the virtual reality attraction."
-    },
-    "client": "sacoa"
-  },
-  {
-    "id": "etiqueta-millercom",
-    "category": "vectors",
-    "accent": "yellow",
-    "client": "particulares",
-    "image": "images/works/etiqueta-millercom.jpg",
-    "title": {
-      "es": "Etiqueta de fuente, versión negra y blanca",
-      "en": "Power supply label, black and white versions"
-    },
-    "desc": {
-      "es": "Redibujada en vectores a partir de una foto, lista para reimprimir.",
-      "en": "Redrawn in vectors from a photo, ready to reprint."
-    }
-  },
-  {
-    "id": "etiqueta-apd",
-    "category": "vectors",
-    "accent": "cyan",
-    "client": "particulares",
-    "image": "images/works/etiqueta-apd.jpg",
-    "title": {
-      "es": "Etiqueta de adaptador AC/DC",
-      "en": "AC/DC adapter label"
-    },
-    "desc": {
-      "es": "Etiqueta técnica vectorizada, lista para imprimir.",
-      "en": "Technical label in vectors, print-ready."
-    }
+  "desc": {
+   "es": "Diseño vectorizado a mano.",
+   "en": "Hand-vectorized design."
   }
+ },
+ {
+  "id": "perro",
+  "category": "logos",
+  "accent": "pink",
+  "image": "images/works/perro.jpg",
+  "title": {
+   "es": "Del boceto al personaje",
+   "en": "From sketch to character"
+  },
+  "desc": {
+   "es": "Boceto a lápiz convertido en personaje vectorial.",
+   "en": "Pencil sketch turned into a vector character."
+  }
+ },
+ {
+  "id": "pinball",
+  "category": "vectors",
+  "accent": "yellow",
+  "image": "images/works/pinball.jpg",
+  "title": {
+   "es": "Cartucho Pinball",
+   "en": "Pinball cartridge"
+  },
+  "desc": {
+   "es": "Etiqueta de cartucho vectorizada.",
+   "en": "Vectorized cartridge label."
+  }
+ },
+ {
+  "id": "mario-cartucho",
+  "category": "mixed",
+  "accent": "magenta",
+  "image": "images/works/mario-cartucho.jpg",
+  "title": {
+   "es": "Cartucho Mario Bros.",
+   "en": "Mario Bros. cartridge"
+  },
+  "desc": {
+   "es": "Cartucho vectorial con etiqueta en mapa de bits.",
+   "en": "Vector cartridge with a bitmap label."
+  }
+ },
+ {
+  "id": "volturno",
+  "category": "vectors",
+  "accent": "cyan",
+  "image": "images/works/volturno.jpg",
+  "title": {
+   "es": "Cafetera Volturno",
+   "en": "Volturno coffee maker"
+  },
+  "desc": {
+   "es": "Detalle de la cafetera, vectorizado a mano.",
+   "en": "Coffee maker detail, hand-vectorized."
+  }
+ },
+ {
+  "id": "bart",
+  "category": "logos",
+  "accent": "yellow",
+  "image": "images/works/bart.jpg",
+  "title": {
+   "es": "Sticker de 1990",
+   "en": "1990 sticker"
+  },
+  "desc": {
+   "es": "Sticker vectorizado, trazo por trazo.",
+   "en": "Sticker vectorized stroke by stroke."
+  }
+ },
+ {
+  "id": "nave",
+  "category": "vectors",
+  "accent": "pink",
+  "image": "images/works/nave.jpg",
+  "title": {
+   "es": "Modelo de nave",
+   "en": "Spaceship model"
+  },
+  "desc": {
+   "es": "Vectorización a partir de una fotografía.",
+   "en": "Vectorized from a photograph."
+  }
+ },
+ {
+  "id": "felfort",
+  "category": "vectors",
+  "accent": "yellow",
+  "image": "images/works/felfort.jpg",
+  "title": {
+   "es": "Chocolates FelFort",
+   "en": "FelFort chocolates"
+  },
+  "desc": {
+   "es": "Golosinas ilustradas a mano, una por una.",
+   "en": "Sweets hand-illustrated, one by one."
+  }
+ },
+ {
+  "id": "insert-coin",
+  "category": "tablet",
+  "accent": "pink",
+  "image": "images/works/insert-coin.jpg",
+  "title": {
+   "es": "Insert coin",
+   "en": "Insert coin"
+  },
+  "desc": {
+   "es": "Neón dibujado a mano con tableta.",
+   "en": "Neon sign hand-drawn on a tablet."
+  }
+ },
+ {
+  "id": "fichines-arcade",
+  "category": "tablet",
+  "accent": "cyan",
+  "image": "images/works/fichines-arcade.jpg",
+  "title": {
+   "es": "Fichines arcade",
+   "en": "Fichines arcade"
+  },
+  "desc": {
+   "es": "Boceto digital sobre una hoja de cuaderno.",
+   "en": "Digital sketch on a notebook page."
+  }
+ },
+ {
+  "id": "battle-cat",
+  "category": "tablet",
+  "accent": "yellow",
+  "image": "images/works/battle-cat.jpg",
+  "title": {
+   "es": "Sticker Battle Cat",
+   "en": "Battle Cat sticker"
+  },
+  "desc": {
+   "es": "Ilustración a mano con tableta.",
+   "en": "Hand-drawn illustration on a tablet."
+  }
+ },
+ {
+  "id": "retrato",
+  "category": "tablet",
+  "accent": "pink",
+  "image": "images/works/retrato.jpg",
+  "title": {
+   "es": "Retrato lineal",
+   "en": "Line-art portrait"
+  },
+  "desc": {
+   "es": "Trazo a mano alzada en vectores.",
+   "en": "Freehand strokes in vectors."
+  }
+ },
+ {
+  "id": "family-game-boceto",
+  "category": "tablet",
+  "accent": "cyan",
+  "image": "images/works/family-game-boceto.jpg",
+  "title": {
+   "es": "Boceto de Family Game",
+   "en": "Family Game sketch"
+  },
+  "desc": {
+   "es": "Boceto digital de la consola.",
+   "en": "Digital sketch of the console."
+  }
+ },
+ {
+  "id": "gameboy-35",
+  "category": "tablet",
+  "accent": "yellow",
+  "image": "images/works/gameboy-35.jpg",
+  "title": {
+   "es": "Game Boy, 35 años",
+   "en": "Game Boy, 35 years"
+  },
+  "desc": {
+   "es": "Ilustración homenaje dibujada a mano.",
+   "en": "Tribute illustration drawn by hand."
+  }
+ },
+ {
+  "id": "game-genie",
+  "category": "tablet",
+  "accent": "pink",
+  "image": "images/works/game-genie.jpg",
+  "title": {
+   "es": "Game Genie",
+   "en": "Game Genie"
+  },
+  "desc": {
+   "es": "Ilustración a mano en vectores.",
+   "en": "Hand-drawn vector illustration."
+  }
+ },
+ {
+  "id": "wii",
+  "category": "tablet",
+  "accent": "cyan",
+  "image": "images/works/wii.jpg",
+  "title": {
+   "es": "Wii",
+   "en": "Wii"
+  },
+  "desc": {
+   "es": "Boceto a mano alzada de la consola y el control.",
+   "en": "Freehand sketch of the console and controller."
+  }
+ },
+ {
+  "id": "marq-intriga",
+  "category": "marquees",
+  "accent": "pink",
+  "image": "images/works/marq-intriga.jpg",
+  "title": {
+   "es": "Marquesina “Intriga Video Juegos”",
+   "en": "“Intriga Video Juegos” marquee"
+  },
+  "desc": {
+   "es": "Neón y espacio profundo, con naves y astronauta.",
+   "en": "Neon lettering over deep space, with ships and an astronaut."
+  }
+ },
+ {
+  "id": "marq-space-invaders",
+  "category": "marquees",
+  "accent": "yellow",
+  "image": "images/works/marq-space-invaders.jpg",
+  "title": {
+   "es": "Marquesina Space Invaders",
+   "en": "Space Invaders marquee"
+  },
+  "desc": {
+   "es": "Pop art con puntos de semitono y letras en relieve.",
+   "en": "Pop art with halftone dots and extruded lettering."
+  }
+ },
+ {
+  "id": "marq-star-wars",
+  "category": "marquees",
+  "accent": "cyan",
+  "image": "images/works/marq-star-wars.jpg",
+  "title": {
+   "es": "Marquesina Star Wars (Atari)",
+   "en": "Star Wars (Atari) marquee"
+  },
+  "desc": {
+   "es": "Grilla vectorial azul con naves y logo.",
+   "en": "Blue vector grid with ships and logo."
+  }
+ },
+ {
+  "id": "marq-new-video-games",
+  "category": "marquees",
+  "accent": "pink",
+  "image": "images/works/marq-new-video-games.jpg",
+  "title": {
+   "es": "Marquesina “New Video Games”",
+   "en": "“New Video Games” marquee"
+  },
+  "desc": {
+   "es": "Collage de paisajes y minotauro, letras cromadas.",
+   "en": "Landscape collage with a minotaur and chrome lettering."
+  }
+ },
+ {
+  "id": "marq-video-games",
+  "category": "marquees",
+  "accent": "cyan",
+  "image": "images/works/marq-video-games.jpg",
+  "title": {
+   "es": "Marquesina “Video Games”",
+   "en": "“Video Games” marquee"
+  },
+  "desc": {
+   "es": "Letras cromadas sobre un atardecer ilustrado.",
+   "en": "Chrome lettering over an illustrated sunset."
+  }
+ },
+ {
+  "id": "marq-videojuegos",
+  "category": "marquees",
+  "accent": "yellow",
+  "image": "images/works/marq-videojuegos.jpg",
+  "title": {
+   "es": "Marquesina “Videojuegos”",
+   "en": "“Videojuegos” marquee"
+  },
+  "desc": {
+   "es": "Estilo comic de terror con trama de puntos.",
+   "en": "Horror-comic style with halftone texture."
+  }
+ },
+ {
+  "id": "marq-video-juegos",
+  "category": "marquees",
+  "accent": "pink",
+  "image": "images/works/marq-video-juegos.jpg",
+  "title": {
+   "es": "Marquesina “Video Juegos”",
+   "en": "“Video Juegos” marquee"
+  },
+  "desc": {
+   "es": "Letras retro 80s con personajes y grilla.",
+   "en": "Retro 80s lettering with characters and grid."
+  }
+ },
+ {
+  "id": "lowpoly-perra",
+  "category": "vectors",
+  "accent": "pink",
+  "image": "images/works/lowpoly-perra.jpg",
+  "title": {
+   "es": "Bernarda, Low Poly",
+   "en": "Bernarda, Low Poly"
+  },
+  "desc": {
+   "es": "Homenaje a mi perra. Trabajo personal.",
+   "en": "Tribute to my dog. Personal work."
+  }
+ },
+ {
+  "id": "lowpoly-piloto",
+  "category": "vectors",
+  "accent": "cyan",
+  "image": "images/works/lowpoly-piloto.jpg",
+  "title": {
+   "es": "Homenaje a Franco Colapinto",
+   "en": "Tribute to Franco Colapinto"
+  },
+  "desc": {
+   "es": "Low Poly por su primer año en Fórmula 1. Trabajo personal.",
+   "en": "Low Poly for his first Formula 1 season. Personal work."
+  }
+ },
+ {
+  "id": "flyer-recital-2-minutos",
+  "category": "flyers",
+  "accent": "yellow",
+  "image": "images/works/flyer-recital-2-minutos.jpg",
+  "title": {
+   "es": "Sobreviví al recital de 2 minutos",
+   "en": "I survived the 2-minute concert"
+  },
+  "desc": {
+   "es": "Afiche tipográfico con trama de puntos.",
+   "en": "Typographic poster with halftone dots."
+  }
+ },
+ {
+  "id": "flyer-toda-america-unida",
+  "category": "flyers",
+  "accent": "cyan",
+  "image": "images/works/flyer-toda-america-unida.jpg",
+  "title": {
+   "es": "Toda América unida",
+   "en": "All of America united"
+  },
+  "desc": {
+   "es": "Tipografía deformada sobre el mapa del continente.",
+   "en": "Warped lettering over a map of the continent."
+  }
+ },
+ {
+  "id": "flyer-tecnico-sistemas",
+  "category": "flyers",
+  "accent": "pink",
+  "image": "images/works/flyer-tecnico-sistemas.jpg",
+  "title": {
+   "es": "Técnico en Sistemas",
+   "en": "Computer technician"
+  },
+  "desc": {
+   "es": "Flyer con una pantalla de tablet como mensaje.",
+   "en": "Flyer designed as a tablet screen."
+  }
+ },
+ {
+  "id": "logo-cloud-center",
+  "category": "logos",
+  "accent": "cyan",
+  "image": "images/logos/logo-cloud-center-thumb.png",
+  "full": "images/logos/logo-cloud-center.png",
+  "title": {
+   "es": "Cloud Center",
+   "en": "Cloud Center"
+  },
+  "desc": {
+   "es": "Logo de centro de atención con auriculares y nube.",
+   "en": "Call-center logo with a headset and cloud."
+  },
+  "client": "particulares"
+ },
+ {
+  "id": "logo-coleccionista-random",
+  "category": "logos",
+  "accent": "yellow",
+  "image": "images/logos/logo-coleccionista-random-thumb.png",
+  "full": "images/logos/logo-coleccionista-random.png",
+  "title": {
+   "es": "Soy Coleccionista Random",
+   "en": "Soy Coleccionista Random"
+  },
+  "desc": {
+   "es": "Tipografías cromadas con relieve para coleccionistas. Para un grupo de amigos.",
+   "en": "Chrome extruded lettering for collectors. For a group of friends."
+  }
+ },
+ {
+  "id": "logo-griyo-digital",
+  "category": "logos",
+  "accent": "pink",
+  "image": "images/logos/logo-griyo-digital-thumb.png",
+  "full": "images/logos/logo-griyo-digital.png",
+  "title": {
+   "es": "Griyo Digital",
+   "en": "Griyo Digital"
+  },
+  "desc": {
+   "es": "Logo de mi canal de YouTube. Proyecto personal.",
+   "en": "Logo for my YouTube channel. Personal project."
+  }
+ },
+ {
+  "id": "logo-griyo-musical",
+  "category": "logos",
+  "accent": "yellow",
+  "image": "images/logos/logo-griyo-musical-thumb.png",
+  "full": "images/logos/logo-griyo-musical.png",
+  "title": {
+   "es": "Griyo Musical",
+   "en": "Griyo Musical"
+  },
+  "desc": {
+   "es": "Logo de mi podcast. Proyecto personal.",
+   "en": "Logo for my podcast. Personal project."
+  }
+ },
+ {
+  "id": "logo-gausachs",
+  "category": "logos",
+  "accent": "yellow",
+  "image": "images/logos/logo-gausachs-thumb.png",
+  "full": "images/logos/logo-gausachs.png",
+  "title": {
+   "es": "Gausachs Propiedades",
+   "en": "Gausachs Propiedades"
+  },
+  "desc": {
+   "es": "Logo inmobiliario dorado sobre fondo oscuro.",
+   "en": "Golden real-estate logo on a dark background."
+  }
+ },
+ {
+  "id": "logo-mdm-electro-montajes",
+  "category": "logos",
+  "accent": "cyan",
+  "image": "images/logos/logo-mdm-electro-montajes-thumb.png",
+  "full": "images/logos/logo-mdm-electro-montajes.png",
+  "title": {
+   "es": "MDM Electro Montajes",
+   "en": "MDM Electro Montajes"
+  },
+  "desc": {
+   "es": "Letras en perspectiva con volumen.",
+   "en": "Lettering in perspective with depth."
+  },
+  "client": "particulares"
+ },
+ {
+  "id": "logo-microcine",
+  "category": "logos",
+  "accent": "yellow",
+  "image": "images/logos/logo-microcine-thumb.png",
+  "full": "images/logos/logo-microcine.png",
+  "title": {
+   "es": "Micro Cine",
+   "en": "Micro Cine"
+  },
+  "desc": {
+   "es": "Un micro escolar con ventanillas de película. Proyecto personal.",
+   "en": "A school bus with film-strip windows. Personal project."
+  }
+ },
+ {
+  "id": "logo-munay",
+  "category": "logos",
+  "accent": "pink",
+  "image": "images/logos/logo-munay-thumb.png",
+  "full": "images/logos/logo-munay.png",
+  "title": {
+   "es": "Munay Pastelería Artesanal",
+   "en": "Munay Artisan Bakery"
+  },
+  "desc": {
+   "es": "Trazo a línea continua con porción de torta.",
+   "en": "Continuous-line style with a cake slice."
+  },
+  "client": "particulares"
+ },
+ {
+  "id": "logo-museo-retro",
+  "category": "logos",
+  "accent": "yellow",
+  "image": "images/logos/logo-museo-retro-thumb.png",
+  "full": "images/logos/logo-museo-retro.png",
+  "title": {
+   "es": "Museo Retro",
+   "en": "Museo Retro"
+  },
+  "desc": {
+   "es": "Letras con contornos de colores. Proyecto personal.",
+   "en": "Lettering with colored outlines. Personal project."
+  }
+ },
+ {
+  "id": "logo-octis",
+  "category": "logos",
+  "accent": "cyan",
+  "image": "images/logos/logo-octis-thumb.png",
+  "full": "images/logos/logo-octis.png",
+  "title": {
+   "es": "Octi’s",
+   "en": "Octi’s"
+  },
+  "desc": {
+   "es": "Gorro de cocina y caligrafía en un solo trazo.",
+   "en": "Chef hat and calligraphy in one stroke."
+  },
+  "client": "particulares"
+ },
+ {
+  "id": "logo-raro-vhs",
+  "category": "logos",
+  "accent": "pink",
+  "image": "images/logos/logo-raro-vhs-thumb.png",
+  "full": "images/logos/logo-raro-vhs.png",
+  "title": {
+   "es": "Raro VHS",
+   "en": "Raro VHS"
+  },
+  "desc": {
+   "es": "Efecto glitch de cinta VHS, desde 2009.",
+   "en": "VHS tape glitch effect, since 2009."
+  },
+  "client": "particulares"
+ },
+ {
+  "id": "logo-renegados-ciudadela",
+  "category": "logos",
+  "accent": "yellow",
+  "image": "images/logos/logo-renegados-ciudadela-thumb.png",
+  "full": "images/logos/logo-renegados-ciudadela.png",
+  "title": {
+   "es": "Renegados Ciudadela",
+   "en": "Renegados Ciudadela"
+  },
+  "desc": {
+   "es": "Insignia de comunidad con personaje ilustrado. Para un grupo de amigos.",
+   "en": "Community badge with an illustrated character. For a group of friends."
+  }
+ },
+ {
+  "id": "logo-seguridad-electronica",
+  "category": "logos",
+  "accent": "cyan",
+  "image": "images/logos/logo-seguridad-electronica-thumb.png",
+  "full": "images/logos/logo-seguridad-electronica.png",
+  "title": {
+   "es": "Seguridad Electrónica",
+   "en": "Electronic Security"
+  },
+  "desc": {
+   "es": "Cámaras, candado y huella en un escudo.",
+   "en": "Cameras, padlock and fingerprint in a badge."
+  },
+  "client": "particulares"
+ },
+ {
+  "id": "logo-trekking",
+  "category": "logos",
+  "accent": "pink",
+  "image": "images/logos/logo-trekking-thumb.png",
+  "full": "images/logos/logo-trekking.png",
+  "title": {
+   "es": "Guía de senderismo, Patagonia",
+   "en": "Patagonia hiking guide"
+  },
+  "desc": {
+   "es": "Logo para un guía de senderismo de la Patagonia: caminante, cóndor y cordillera.",
+   "en": "Logo for a Patagonia hiking guide: hiker, condor and mountains."
+  },
+  "client": "particulares"
+ },
+ {
+  "id": "flyer-levotrax",
+  "category": "flyers",
+  "accent": "cyan",
+  "image": "images/works/flyer-levotrax.jpg",
+  "title": {
+   "es": "Levotrax, laboratorio",
+   "en": "Levotrax, pharma lab"
+  },
+  "desc": {
+   "es": "Gráfica estilo videojuego de naves para un laboratorio.",
+   "en": "Space-shooter style graphic for a pharmaceutical lab."
+  },
+  "client": "particulares"
+ }
 ]

@@ -15,21 +15,6 @@
   }
  },
  {
-  "id": "mario-marquesina-1",
-  "group": "sala",
-  "image": "images/sacoa/mario-marquesina-1-thumb.jpg",
-  "full": "images/sacoa/mario-marquesina-1.jpg",
-  "accent": "pink",
-  "title": {
-   "es": "Marquesina Super Mario Bros",
-   "en": "Super Mario Bros marquee"
-  },
-  "desc": {
-   "es": "Marquesina instalada en el gabinete.",
-   "en": "Marquee installed on the cabinet."
-  }
- },
- {
   "id": "mario-marquesina-2",
   "group": "sala",
   "image": "images/sacoa/mario-marquesina-2-thumb.jpg",
@@ -90,21 +75,6 @@
   }
  },
  {
-  "id": "tmnt-1",
-  "group": "sala",
-  "image": "images/sacoa/tmnt-1-thumb.jpg",
-  "full": "images/sacoa/tmnt-1.jpg",
-  "accent": "cyan",
-  "title": {
-   "es": "Marquesina Tortugas Ninja",
-   "en": "Ninja Turtles marquee"
-  },
-  "desc": {
-   "es": "Marquesina instalada en el gabinete.",
-   "en": "Marquee installed on the cabinet."
-  }
- },
- {
   "id": "tmnt-2",
   "group": "sala",
   "image": "images/sacoa/tmnt-2-thumb.jpg",
@@ -150,21 +120,6 @@
   }
  },
  {
-  "id": "shot-a-winner-nueva-2",
-  "group": "sala",
-  "image": "images/sacoa/shot-a-winner-nueva-2-thumb.jpg",
-  "full": "images/sacoa/shot-a-winner-nueva-2.jpg",
-  "accent": "pink",
-  "title": {
-   "es": "Shot a Winner (frente)",
-   "en": "Shot a Winner (front)"
-  },
-  "desc": {
-   "es": "Mueble y tubo con la gráfica nueva.",
-   "en": "Base and tube with the new graphics."
-  }
- },
- {
   "id": "transformers-panel",
   "group": "sala",
   "image": "images/sacoa/transformers-panel-thumb.jpg",
@@ -180,21 +135,6 @@
   }
  },
  {
-  "id": "transformers-panel-2",
-  "group": "sala",
-  "image": "images/sacoa/transformers-panel-2-thumb.jpg",
-  "full": "images/sacoa/transformers-panel-2.jpg",
-  "accent": "pink",
-  "title": {
-   "es": "Panel Transformers (detalle)",
-   "en": "Transformers panel (detail)"
-  },
-  "desc": {
-   "es": "Instrucciones de controles y reglas.",
-   "en": "Controls and rules instructions."
-  }
- },
- {
   "id": "transformers-gabinete",
   "group": "sala",
   "image": "images/sacoa/transformers-gabinete-thumb.jpg",
@@ -207,21 +147,6 @@
   "desc": {
    "es": "Gabinete en sala con las gráficas y el panel.",
    "en": "Cabinet on the floor with the graphics and panel."
-  }
- },
- {
-  "id": "promo-verano-sala",
-  "group": "sala",
-  "image": "images/sacoa/promo-verano-sala-thumb.jpg",
-  "full": "images/sacoa/promo-verano-sala.jpg",
-  "accent": "yellow",
-  "title": {
-   "es": "Promo Verano en sala",
-   "en": "Summer Promo in place"
-  },
-  "desc": {
-   "es": "Gráfica en el cajón luminoso.",
-   "en": "Graphic in the light box."
   }
  },
  {
@@ -252,81 +177,6 @@
   "desc": {
    "es": "Cartel de la sala de realidad virtual.",
    "en": "Sign for the virtual reality room."
-  }
- },
- {
-  "id": "vr-experience",
-  "group": "sala",
-  "image": "images/sacoa/vr-experience-thumb.jpg",
-  "full": "images/sacoa/vr-experience.jpg",
-  "accent": "cyan",
-  "title": {
-   "es": "Sacoa VR Experience",
-   "en": "Sacoa VR Experience"
-  },
-  "desc": {
-   "es": "Gráfica de pared de la sala de realidad virtual.",
-   "en": "Wall graphic for the virtual reality room."
-  }
- },
- {
-  "id": "shot-a-winner-nuevo-1",
-  "group": "sala",
-  "image": "images/sacoa/shot-a-winner-nuevo-1-thumb.jpg",
-  "full": "images/sacoa/shot-a-winner-nuevo-1.jpg",
-  "accent": "yellow",
-  "title": {
-   "es": "Shot a Winner, gráfica nueva",
-   "en": "Shot a Winner, new graphics"
-  },
-  "desc": {
-   "es": "Cabina renovada con la nueva gráfica.",
-   "en": "Cabinet refreshed with the new graphics."
-  }
- },
- {
-  "id": "shot-a-winner-nuevo-2",
-  "group": "sala",
-  "image": "images/sacoa/shot-a-winner-nuevo-2-thumb.jpg",
-  "full": "images/sacoa/shot-a-winner-nuevo-2.jpg",
-  "accent": "pink",
-  "title": {
-   "es": "Shot a Winner, frente",
-   "en": "Shot a Winner, front"
-  },
-  "desc": {
-   "es": "Frente y laterales con la nueva gráfica.",
-   "en": "Front and sides with the new graphics."
-  }
- },
- {
-  "id": "transformers-sala",
-  "group": "sala",
-  "image": "images/sacoa/transformers-sala-thumb.jpg",
-  "full": "images/sacoa/transformers-sala.jpg",
-  "accent": "cyan",
-  "title": {
-   "es": "Gabinete Transformers en sala",
-   "en": "Transformers cabinet on site"
-  },
-  "desc": {
-   "es": "El gabinete completo, con el panel que diseñé.",
-   "en": "The full cabinet, with the panel I designed."
-  }
- },
- {
-  "id": "striker-arte",
-  "group": "disenos",
-  "image": "images/sacoa/striker-arte-thumb.jpg",
-  "full": "images/sacoa/striker-arte.jpg",
-  "accent": "pink",
-  "title": {
-   "es": "Striker · arte",
-   "en": "Striker · artwork"
-  },
-  "desc": {
-   "es": "Arte del frente del juego de bowling.",
-   "en": "Artwork for the bowling game front."
   }
  },
  {
@@ -375,21 +225,6 @@
   }
  },
  {
-  "id": "photocenter-lateral",
-  "group": "disenos",
-  "image": "images/sacoa/photocenter-lateral-thumb.jpg",
-  "full": "images/sacoa/photocenter-lateral.jpg",
-  "accent": "yellow",
-  "title": {
-   "es": "Cabina original, antes (lateral)",
-   "en": "Original booth, before (side)"
-  },
-  "desc": {
-   "es": "Así llegó la cabina, todavía sin mis gráficas.",
-   "en": "How the booth arrived, before my graphics."
-  }
- },
- {
   "id": "photocenter-frente",
   "group": "disenos",
   "image": "images/sacoa/photocenter-frente-thumb.jpg",
@@ -420,18 +255,93 @@
   }
  },
  {
-  "id": "shot-a-winner",
-  "group": "disenos",
-  "image": "images/sacoa/shot-a-winner-thumb.jpg",
-  "full": "images/sacoa/shot-a-winner.jpg",
+  "id": "flyer-sacoa-cumple-1",
+  "group": "flyers",
+  "image": "images/sacoa/flyer-sacoa-cumple-1-thumb.jpg",
+  "full": "images/works/flyer-sacoa-cumple-1.jpg",
   "accent": "yellow",
   "title": {
-   "es": "Shot a Winner, antes",
-   "en": "Shot a Winner, before"
+   "es": "Cumpleaños en Sacoa",
+   "en": "Birthday parties at Sacoa"
   },
   "desc": {
-   "es": "Cabinas con la gráfica anterior.",
-   "en": "Cabinets with the previous graphics."
+   "es": "Flyer de promoción para salón de cumpleaños.",
+   "en": "Promo flyer for a birthday party room."
+  }
+ },
+ {
+  "id": "flyer-sacoa-cumple-2",
+  "group": "flyers",
+  "image": "images/sacoa/flyer-sacoa-cumple-2-thumb.jpg",
+  "full": "images/works/flyer-sacoa-cumple-2.jpg",
+  "accent": "pink",
+  "title": {
+   "es": "Cumpleaños en Sacoa, versión 2",
+   "en": "Birthday parties at Sacoa, version 2"
+  },
+  "desc": {
+   "es": "Otra versión del flyer, con tarjeta de regalo.",
+   "en": "Another version, with a gift card."
+  }
+ },
+ {
+  "id": "flyer-sacoa-vale",
+  "group": "flyers",
+  "image": "images/sacoa/flyer-sacoa-vale-thumb.jpg",
+  "full": "images/works/flyer-sacoa-vale.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Vale Sacoa",
+   "en": "Sacoa voucher"
+  },
+  "desc": {
+   "es": "Vale por 2 horas de juegos de cortesía.",
+   "en": "Voucher for 2 courtesy hours of games."
+  }
+ },
+ {
+  "id": "flyer-sacoa-promo-verano",
+  "group": "flyers",
+  "image": "images/sacoa/flyer-sacoa-promo-verano-thumb.jpg",
+  "full": "images/works/flyer-sacoa-promo-verano.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Promo Verano, Sacoa",
+   "en": "Summer Promo, Sacoa"
+  },
+  "desc": {
+   "es": "Flyer de promoción con formas geométricas.",
+   "en": "Promo flyer with geometric shapes."
+  }
+ },
+ {
+  "id": "flyer-sacoa-carga-redonda",
+  "group": "flyers",
+  "image": "images/sacoa/flyer-sacoa-carga-redonda-thumb.jpg",
+  "full": "images/works/flyer-sacoa-carga-redonda.jpg",
+  "accent": "pink",
+  "title": {
+   "es": "Carga Redonda, Sacoa",
+   "en": "Carga Redonda, Sacoa"
+  },
+  "desc": {
+   "es": "Flyer de promoción de cargas, todos los días.",
+   "en": "Daily top-up promo flyer."
+  }
+ },
+ {
+  "id": "flyer-sacoa-vr",
+  "group": "flyers",
+  "image": "images/sacoa/flyer-sacoa-vr-thumb.jpg",
+  "full": "images/works/flyer-sacoa-vr.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "VR Experience, Sacoa",
+   "en": "VR Experience, Sacoa"
+  },
+  "desc": {
+   "es": "Banner para la atracción de realidad virtual.",
+   "en": "Banner for the virtual reality attraction."
   }
  }
 ]

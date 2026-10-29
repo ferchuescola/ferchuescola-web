@@ -45,6 +45,7 @@
     var label = el('span', 'mono ph-label', '[' + pick(w.title) + ']');
     ph.appendChild(img); ph.appendChild(label);
     img.onload = function () { img.hidden = false; ph.classList.add('has-img'); if (w.category === 'logos') ph.classList.add('is-logo'); zoomable(img, pick(w.title) + ' · ' + pick(w.desc), w.full); };
+    img.onerror = function () { label.textContent = '[' + pick(w.title) + '] ' + w.image + ' (no se pudo cargar)'; };
     img.src = w.image;
     var c = el('figcaption'); c.appendChild(el('strong', '', pick(w.title))); c.appendChild(el('span', '', pick(w.desc)));
     f.appendChild(ph); f.appendChild(c); return f;
@@ -55,7 +56,7 @@
     works.filter(function (w) { return filter === 'all' || w.category === filter || w.client === filter; }).forEach(function (w) { grid.appendChild(workFig(w)); });
   }
   function renderSacoa() {
-    [['sacoa-sala', 'sala'], ['sacoa-disenos', 'disenos']].forEach(function (p) {
+    [['sacoa-sala', 'sala'], ['sacoa-disenos', 'disenos'], ['sacoa-flyers', 'flyers']].forEach(function (p) {
       var g = document.getElementById(p[0]); if (!g) return; clear(g);
       sacoa.filter(function (w) { return w.group === p[1]; }).forEach(function (w) { g.appendChild(workFig(w)); });
     });
