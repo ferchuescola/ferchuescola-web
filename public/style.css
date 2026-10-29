@@ -210,3 +210,30 @@ dialog.lightbox button{display:block;margin:12px auto 0;background:var(--yellow)
   .btn{padding:14px 22px}
 }
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}.btn{transition:none}}
+
+/* Logos: vista previa 20% más chica sobre fondo claro; la imagen es PNG transparente */
+.ph.is-logo{padding:28px 0}
+.ph.is-logo img{width:80%;margin:0 auto}
+/* Medios con imagen */
+.media-item{position:relative;overflow:hidden}
+.media-item.has-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.media-item.has-photo.fit-contain{background:#fff}
+.media-item.has-photo.fit-contain img{object-fit:contain;padding:14px 14px 56px}
+.media-item.has-photo::before{content:'';position:absolute;inset:0;background:linear-gradient(to top,rgba(14,11,31,.92) 0%,rgba(14,11,31,.55) 45%,rgba(14,11,31,0) 75%);z-index:1}
+.media-item.has-photo>span{position:relative;z-index:2}
+.media-item.has-photo small{color:#d8d4ee}
+
+.clients-note{color:var(--muted);margin:0 0 20px}
+
+/* Página de Sacoa */
+[hidden]{display:none!important}
+.more-row{margin:8px 0 0}
+a.logo-item{color:var(--dark);text-decoration:none}
+a.logo-item:hover{box-shadow:6px 6px 0 var(--pink)}
+.page-top{display:flex;flex-wrap:wrap;gap:12px 24px;align-items:center;justify-content:space-between;padding:14px var(--pad);background:var(--bg);border-bottom:3px solid var(--ink)}
+.sacoa-hero{display:flex;flex-wrap:wrap;gap:28px 48px;align-items:center}
+.sacoa-hero .lead{max-width:60ch}
+.sacoa-logo{background:#fff;border:3px solid var(--ink);box-shadow:8px 8px 0 var(--pink);padding:20px 28px}
+.sacoa-logo img{display:block;max-height:90px;width:auto}
+.sub-text{max-width:60ch;color:var(--muted);margin-bottom:32px}
+.cta-band{text-align:center}

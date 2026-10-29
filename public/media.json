@@ -1,8 +1,57 @@
 [
-  { "outlet": "Clarín", "title": { "es": "De Sacoa a casa: marquesinas históricas que todos vimos en los fichines", "en": "From Sacoa to home: the historic marquees we all saw in the arcades" }, "url": "https://www.clarin.com/tecnologia/sacoa-casa-marquesinas-historicas-vimos-fichines_0_q8YZ6sVUj.html" },
-  { "outlet": "Cultura Pop", "title": { "es": "Hablando en Cultura Pop con Alexis Puig", "en": "Talking on Cultura Pop with Alexis Puig" }, "url": "https://www.youtube.com/watch?v=sE_el90njHM&t=5s" },
-  { "outlet": "LN+", "title": { "es": "Mi libro “Marquesinas” en LNBrunch", "en": "My book “Marquesinas” on LNBrunch" }, "url": "https://www.youtube.com/watch?v=0XGoT-uDJEo&t=3s" },
-  { "outlet": "TN Tecno", "title": { "es": "Las mini marquesinas llegaron a TN Tecno", "en": "The mini marquees came to TN Tecno" }, "url": "https://www.youtube.com/watch?v=93_dsYCGFWY" },
-  { "outlet": "TN Tecno", "title": { "es": "Mi libro Marquesinas en TN Tecno", "en": "My book Marquesinas on TN Tecno" }, "url": "https://www.youtube.com/watch?v=Wm47hDD0JDg&t=2s" },
-  { "outlet": "Revista Replay", "title": { "es": "Entrevista en el número 19", "en": "Interview in issue 19" }, "url": "https://drive.google.com/file/d/1RvnZ-iydaRC9TADa21kevAtXaTsFv1cP/view" }
+  {
+    "outlet": "Clarín",
+    "title": {
+      "es": "De Sacoa a casa: marquesinas históricas que todos vimos en los fichines",
+      "en": "From Sacoa to home: the historic marquees we all saw in the arcades"
+    },
+    "url": "https://www.clarin.com/tecnologia/sacoa-casa-marquesinas-historicas-vimos-fichines_0_q8YZ6sVUj.html",
+    "image": "images/medios/clarin.jpg",
+    "fit": "contain"
+  },
+  {
+    "outlet": "Cultura Pop",
+    "title": {
+      "es": "Hablando en Cultura Pop con Alexis Puig",
+      "en": "Talking on Cultura Pop with Alexis Puig"
+    },
+    "url": "https://www.youtube.com/watch?v=sE_el90njHM&t=5s",
+    "image": "images/medios/culturapop.jpg"
+  },
+  {
+    "outlet": "LN+",
+    "title": {
+      "es": "Mi libro “Marquesinas” en LNBrunch",
+      "en": "My book “Marquesinas” on LNBrunch"
+    },
+    "url": "https://www.youtube.com/watch?v=0XGoT-uDJEo&t=3s",
+    "image": "images/medios/ln-plus.jpg"
+  },
+  {
+    "outlet": "TN Tecno",
+    "title": {
+      "es": "Las mini marquesinas llegaron a TN Tecno",
+      "en": "The mini marquees came to TN Tecno"
+    },
+    "url": "https://www.youtube.com/watch?v=93_dsYCGFWY",
+    "image": "images/medios/tn-tecno.jpg"
+  },
+  {
+    "outlet": "TN Tecno",
+    "title": {
+      "es": "Mi libro Marquesinas en TN Tecno",
+      "en": "My book Marquesinas on TN Tecno"
+    },
+    "url": "https://www.youtube.com/watch?v=Wm47hDD0JDg&t=2s",
+    "image": "images/medios/tn-tecno.jpg"
+  },
+  {
+    "outlet": "Revista Replay",
+    "title": {
+      "es": "Entrevista en el número 19",
+      "en": "Interview in issue 19"
+    },
+    "url": "https://drive.google.com/file/d/1RvnZ-iydaRC9TADa21kevAtXaTsFv1cP/view",
+    "image": "images/medios/replay.jpg"
+  }
 ]

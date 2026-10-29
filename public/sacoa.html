@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sacoa | Trabajos instalados · Ferchu Escola</title>
+<meta name="description" content="Marquesinas y gráficas que diseñé para Sacoa Entertainment, fotografiadas ya instaladas en las salas de juegos.">
+<meta property="og:title" content="Sacoa | Trabajos instalados · Ferchu Escola">
+<meta property="og:image" content="images/sacoa/fila-gabinetes.jpg">
+<meta name="theme-color" content="#0E0B1F">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@500;600;700&family=DM+Sans:wght@400;500;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body data-title="sacoa.meta">
+<a class="skip" href="#sala" data-i18n="skip">Ir al contenido</a>
+
+<header class="nav">
+  <a class="brand" href="index.html"><span class="brand-mark">F</span>FERCHU ESCOLA</a>
+  <nav aria-label="Principal" class="nav-links">
+    <a href="index.html#trabajos" data-i18n="sacoa.back"></a>
+    <span class="lang" role="group" aria-label="Idioma / Language">
+      <button type="button" data-lang="es" aria-pressed="true">ES</button>
+      <button type="button" data-lang="en" aria-pressed="false">EN</button>
+    </span>
+    <a class="btn btn-pink btn-sm" href="index.html#contacto" data-i18n="nav.quote"></a>
+  </nav>
+</header>
+
+<main>
+<section class="section">
+  <div class="sacoa-hero">
+    <div>
+      <p class="mono label" data-i18n="sacoa.label"></p>
+      <h1 data-i18n="sacoa.title" style="font-size:clamp(36px,6vw,64px);margin-bottom:16px"></h1>
+      <p class="lead" data-i18n="sacoa.intro"></p>
+    </div>
+    <div class="sacoa-logo"><img src="images/sacoa.png" alt="Sacoa Entertainment"></div>
+  </div>
+</section>
+
+<section id="sala" class="section">
+  <h2 data-i18n="sacoa.sala.title"></h2>
+  <p class="sub-text" data-i18n="sacoa.sala.text"></p>
+  <div id="sacoa-sala" class="grid3 works"></div>
+</section>
+
+<section id="disenos" class="section">
+  <h2 data-i18n="sacoa.dis.title"></h2>
+  <p class="sub-text" data-i18n="sacoa.dis.text"></p>
+  <div id="sacoa-disenos" class="grid3 works"></div>
+</section>
+
+<section class="band cta-band">
+  <h2 data-i18n="sacoa.cta"></h2>
+  <p><a class="btn btn-pink" href="index.html#contacto" data-i18n="sacoa.cta.btn"></a></p>
+</section>
+</main>
+
+<footer class="foot">
+  <span class="mono" data-i18n="footer.rights"></span>
+  <nav class="mono" aria-label="Pie">
+    <a href="index.html#trabajos" data-i18n="nav.works"></a>
+    <a href="index.html#contacto" data-i18n="nav.quote"></a>
+  </nav>
+</footer>
+
+<dialog id="lightbox" class="lightbox" aria-label="Imagen ampliada"><img src="" alt=""><p></p><button type="button">Cerrar</button></dialog>
+
+<script src="i18n.js"></script>
+<script src="config.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

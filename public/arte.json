@@ -23,7 +23,11 @@
         "key": "outline",
         "image": "images/arte/family-game-contornos.jpg"
       }
-    ]
+    ],
+    "size": {
+      "es": "60 × 45,2 cm",
+      "en": "60 × 45.2 cm"
+    }
   },
   {
     "id": "gamecube",
@@ -49,6 +53,10 @@
         "key": "outline",
         "image": "images/arte/gamecube-contornos.jpg"
       }
-    ]
+    ],
+    "size": {
+      "es": "60 × 16,5 cm",
+      "en": "60 × 16.5 cm"
+    }
   }
 ]

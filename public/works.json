@@ -322,132 +322,6 @@
     }
   },
   {
-    "id": "logo-cloud-center",
-    "category": "logos",
-    "accent": "cyan",
-    "image": "images/works/logo-cloud-center.jpg",
-    "title": {
-      "es": "Cloud Center",
-      "en": "Cloud Center"
-    },
-    "desc": {
-      "es": "Logo de centro de atención con auriculares y nube.",
-      "en": "Call-center logo with a headset and cloud."
-    }
-  },
-  {
-    "id": "logo-coleccionista-random",
-    "category": "logos",
-    "accent": "yellow",
-    "image": "images/works/logo-coleccionista-random.jpg",
-    "title": {
-      "es": "Soy Coleccionista Random",
-      "en": "Soy Coleccionista Random"
-    },
-    "desc": {
-      "es": "Tipografías cromadas con relieve para coleccionistas.",
-      "en": "Chrome extruded lettering for collectors."
-    }
-  },
-  {
-    "id": "logo-gausachs",
-    "category": "logos",
-    "accent": "yellow",
-    "image": "images/works/logo-gausachs.jpg",
-    "title": {
-      "es": "Gausachs Propiedades",
-      "en": "Gausachs Propiedades"
-    },
-    "desc": {
-      "es": "Logo inmobiliario dorado sobre fondo oscuro.",
-      "en": "Golden real-estate logo on a dark background."
-    }
-  },
-  {
-    "id": "logo-munay",
-    "category": "logos",
-    "accent": "pink",
-    "image": "images/works/logo-munay.jpg",
-    "title": {
-      "es": "Munay Pastelería Artesanal",
-      "en": "Munay Artisan Bakery"
-    },
-    "desc": {
-      "es": "Trazo a línea continua con porción de torta.",
-      "en": "Continuous-line style with a cake slice."
-    }
-  },
-  {
-    "id": "logo-octis",
-    "category": "logos",
-    "accent": "cyan",
-    "image": "images/works/logo-octis.jpg",
-    "title": {
-      "es": "Octi’s",
-      "en": "Octi’s"
-    },
-    "desc": {
-      "es": "Gorro de cocina y caligrafía en un solo trazo.",
-      "en": "Chef hat and calligraphy in one stroke."
-    }
-  },
-  {
-    "id": "logo-raro-vhs",
-    "category": "logos",
-    "accent": "pink",
-    "image": "images/works/logo-raro-vhs.jpg",
-    "title": {
-      "es": "Raro VHS",
-      "en": "Raro VHS"
-    },
-    "desc": {
-      "es": "Efecto glitch de cinta VHS, desde 2009.",
-      "en": "VHS tape glitch effect, since 2009."
-    }
-  },
-  {
-    "id": "logo-renegados-ciudadela",
-    "category": "logos",
-    "accent": "yellow",
-    "image": "images/works/logo-renegados-ciudadela.jpg",
-    "title": {
-      "es": "Renegados Ciudadela",
-      "en": "Renegados Ciudadela"
-    },
-    "desc": {
-      "es": "Insignia de comunidad con personaje ilustrado.",
-      "en": "Community badge with an illustrated character."
-    }
-  },
-  {
-    "id": "logo-seguridad-electronica",
-    "category": "logos",
-    "accent": "cyan",
-    "image": "images/works/logo-seguridad-electronica.jpg",
-    "title": {
-      "es": "Seguridad Electrónica",
-      "en": "Electronic Security"
-    },
-    "desc": {
-      "es": "Cámaras, candado y huella en un escudo.",
-      "en": "Cameras, padlock and fingerprint in a badge."
-    }
-  },
-  {
-    "id": "logo-trekking",
-    "category": "logos",
-    "accent": "pink",
-    "image": "images/works/logo-trekking.jpg",
-    "title": {
-      "es": "Guía de senderismo, Patagonia",
-      "en": "Patagonia hiking guide"
-    },
-    "desc": {
-      "es": "Logo para un guía de senderismo de la Patagonia: caminante, cóndor y cordillera.",
-      "en": "Logo for a Patagonia hiking guide: hiker, condor and mountains."
-    }
-  },
-  {
     "id": "lowpoly-perra",
     "category": "vectors",
     "accent": "pink",
@@ -473,6 +347,400 @@
     "desc": {
       "es": "Low Poly por su primer año en Fórmula 1. Trabajo personal.",
       "en": "Low Poly for his first Formula 1 season. Personal work."
+    }
+  },
+  {
+    "id": "flyer-recital-2-minutos",
+    "category": "flyers",
+    "accent": "yellow",
+    "image": "images/works/flyer-recital-2-minutos.jpg",
+    "title": {
+      "es": "Sobreviví al recital de 2 minutos",
+      "en": "I survived the 2-minute concert"
+    },
+    "desc": {
+      "es": "Afiche tipográfico con trama de puntos.",
+      "en": "Typographic poster with halftone dots."
+    }
+  },
+  {
+    "id": "flyer-toda-america-unida",
+    "category": "flyers",
+    "accent": "cyan",
+    "image": "images/works/flyer-toda-america-unida.jpg",
+    "title": {
+      "es": "Toda América unida",
+      "en": "All of America united"
+    },
+    "desc": {
+      "es": "Tipografía deformada sobre el mapa del continente.",
+      "en": "Warped lettering over a map of the continent."
+    }
+  },
+  {
+    "id": "flyer-tecnico-sistemas",
+    "category": "flyers",
+    "accent": "pink",
+    "image": "images/works/flyer-tecnico-sistemas.jpg",
+    "title": {
+      "es": "Técnico en Sistemas",
+      "en": "Computer technician"
+    },
+    "desc": {
+      "es": "Flyer con una pantalla de tablet como mensaje.",
+      "en": "Flyer designed as a tablet screen."
+    }
+  },
+  {
+    "id": "flyer-sacoa-cumple-1",
+    "category": "flyers",
+    "accent": "yellow",
+    "image": "images/works/flyer-sacoa-cumple-1.jpg",
+    "title": {
+      "es": "Cumpleaños en Sacoa",
+      "en": "Birthday parties at Sacoa"
+    },
+    "desc": {
+      "es": "Flyer de promoción para salón de cumpleaños.",
+      "en": "Promo flyer for a birthday party room."
+    },
+    "client": "sacoa"
+  },
+  {
+    "id": "flyer-sacoa-cumple-2",
+    "category": "flyers",
+    "accent": "pink",
+    "image": "images/works/flyer-sacoa-cumple-2.jpg",
+    "title": {
+      "es": "Cumpleaños en Sacoa, versión 2",
+      "en": "Birthday parties at Sacoa, version 2"
+    },
+    "desc": {
+      "es": "Otra versión del flyer, con tarjeta de regalo.",
+      "en": "Another version, with a gift card."
+    },
+    "client": "sacoa"
+  },
+  {
+    "id": "flyer-sacoa-vale",
+    "category": "flyers",
+    "accent": "cyan",
+    "image": "images/works/flyer-sacoa-vale.jpg",
+    "title": {
+      "es": "Vale Sacoa",
+      "en": "Sacoa voucher"
+    },
+    "desc": {
+      "es": "Vale por 2 horas de juegos de cortesía.",
+      "en": "Voucher for 2 courtesy hours of games."
+    },
+    "client": "sacoa"
+  },
+  {
+    "id": "logo-cloud-center",
+    "category": "logos",
+    "accent": "cyan",
+    "image": "images/logos/logo-cloud-center-thumb.png",
+    "full": "images/logos/logo-cloud-center.png",
+    "title": {
+      "es": "Cloud Center",
+      "en": "Cloud Center"
+    },
+    "desc": {
+      "es": "Logo de centro de atención con auriculares y nube.",
+      "en": "Call-center logo with a headset and cloud."
+    },
+    "client": "particulares"
+  },
+  {
+    "id": "logo-coleccionista-random",
+    "category": "logos",
+    "accent": "yellow",
+    "image": "images/logos/logo-coleccionista-random-thumb.png",
+    "full": "images/logos/logo-coleccionista-random.png",
+    "title": {
+      "es": "Soy Coleccionista Random",
+      "en": "Soy Coleccionista Random"
+    },
+    "desc": {
+      "es": "Tipografías cromadas con relieve para coleccionistas. Para un grupo de amigos.",
+      "en": "Chrome extruded lettering for collectors. For a group of friends."
+    }
+  },
+  {
+    "id": "logo-griyo-digital",
+    "category": "logos",
+    "accent": "pink",
+    "image": "images/logos/logo-griyo-digital-thumb.png",
+    "full": "images/logos/logo-griyo-digital.png",
+    "title": {
+      "es": "Griyo Digital",
+      "en": "Griyo Digital"
+    },
+    "desc": {
+      "es": "Logo de mi canal de YouTube. Proyecto personal.",
+      "en": "Logo for my YouTube channel. Personal project."
+    }
+  },
+  {
+    "id": "logo-griyo-musical",
+    "category": "logos",
+    "accent": "yellow",
+    "image": "images/logos/logo-griyo-musical-thumb.png",
+    "full": "images/logos/logo-griyo-musical.png",
+    "title": {
+      "es": "Griyo Musical",
+      "en": "Griyo Musical"
+    },
+    "desc": {
+      "es": "Logo de mi podcast. Proyecto personal.",
+      "en": "Logo for my podcast. Personal project."
+    }
+  },
+  {
+    "id": "logo-gausachs",
+    "category": "logos",
+    "accent": "yellow",
+    "image": "images/logos/logo-gausachs-thumb.png",
+    "full": "images/logos/logo-gausachs.png",
+    "title": {
+      "es": "Gausachs Propiedades",
+      "en": "Gausachs Propiedades"
+    },
+    "desc": {
+      "es": "Logo inmobiliario dorado sobre fondo oscuro.",
+      "en": "Golden real-estate logo on a dark background."
+    }
+  },
+  {
+    "id": "logo-mdm-electro-montajes",
+    "category": "logos",
+    "accent": "cyan",
+    "image": "images/logos/logo-mdm-electro-montajes-thumb.png",
+    "full": "images/logos/logo-mdm-electro-montajes.png",
+    "title": {
+      "es": "MDM Electro Montajes",
+      "en": "MDM Electro Montajes"
+    },
+    "desc": {
+      "es": "Letras en perspectiva con volumen.",
+      "en": "Lettering in perspective with depth."
+    },
+    "client": "particulares"
+  },
+  {
+    "id": "logo-microcine",
+    "category": "logos",
+    "accent": "yellow",
+    "image": "images/logos/logo-microcine-thumb.png",
+    "full": "images/logos/logo-microcine.png",
+    "title": {
+      "es": "Micro Cine",
+      "en": "Micro Cine"
+    },
+    "desc": {
+      "es": "Un micro escolar con ventanillas de película. Proyecto personal.",
+      "en": "A school bus with film-strip windows. Personal project."
+    }
+  },
+  {
+    "id": "logo-munay",
+    "category": "logos",
+    "accent": "pink",
+    "image": "images/logos/logo-munay-thumb.png",
+    "full": "images/logos/logo-munay.png",
+    "title": {
+      "es": "Munay Pastelería Artesanal",
+      "en": "Munay Artisan Bakery"
+    },
+    "desc": {
+      "es": "Trazo a línea continua con porción de torta.",
+      "en": "Continuous-line style with a cake slice."
+    },
+    "client": "particulares"
+  },
+  {
+    "id": "logo-museo-retro",
+    "category": "logos",
+    "accent": "yellow",
+    "image": "images/logos/logo-museo-retro-thumb.png",
+    "full": "images/logos/logo-museo-retro.png",
+    "title": {
+      "es": "Museo Retro",
+      "en": "Museo Retro"
+    },
+    "desc": {
+      "es": "Letras con contornos de colores. Proyecto personal.",
+      "en": "Lettering with colored outlines. Personal project."
+    }
+  },
+  {
+    "id": "logo-octis",
+    "category": "logos",
+    "accent": "cyan",
+    "image": "images/logos/logo-octis-thumb.png",
+    "full": "images/logos/logo-octis.png",
+    "title": {
+      "es": "Octi’s",
+      "en": "Octi’s"
+    },
+    "desc": {
+      "es": "Gorro de cocina y caligrafía en un solo trazo.",
+      "en": "Chef hat and calligraphy in one stroke."
+    },
+    "client": "particulares"
+  },
+  {
+    "id": "logo-raro-vhs",
+    "category": "logos",
+    "accent": "pink",
+    "image": "images/logos/logo-raro-vhs-thumb.png",
+    "full": "images/logos/logo-raro-vhs.png",
+    "title": {
+      "es": "Raro VHS",
+      "en": "Raro VHS"
+    },
+    "desc": {
+      "es": "Efecto glitch de cinta VHS, desde 2009.",
+      "en": "VHS tape glitch effect, since 2009."
+    },
+    "client": "particulares"
+  },
+  {
+    "id": "logo-renegados-ciudadela",
+    "category": "logos",
+    "accent": "yellow",
+    "image": "images/logos/logo-renegados-ciudadela-thumb.png",
+    "full": "images/logos/logo-renegados-ciudadela.png",
+    "title": {
+      "es": "Renegados Ciudadela",
+      "en": "Renegados Ciudadela"
+    },
+    "desc": {
+      "es": "Insignia de comunidad con personaje ilustrado. Para un grupo de amigos.",
+      "en": "Community badge with an illustrated character. For a group of friends."
+    }
+  },
+  {
+    "id": "logo-seguridad-electronica",
+    "category": "logos",
+    "accent": "cyan",
+    "image": "images/logos/logo-seguridad-electronica-thumb.png",
+    "full": "images/logos/logo-seguridad-electronica.png",
+    "title": {
+      "es": "Seguridad Electrónica",
+      "en": "Electronic Security"
+    },
+    "desc": {
+      "es": "Cámaras, candado y huella en un escudo.",
+      "en": "Cameras, padlock and fingerprint in a badge."
+    },
+    "client": "particulares"
+  },
+  {
+    "id": "logo-trekking",
+    "category": "logos",
+    "accent": "pink",
+    "image": "images/logos/logo-trekking-thumb.png",
+    "full": "images/logos/logo-trekking.png",
+    "title": {
+      "es": "Guía de senderismo, Patagonia",
+      "en": "Patagonia hiking guide"
+    },
+    "desc": {
+      "es": "Logo para un guía de senderismo de la Patagonia: caminante, cóndor y cordillera.",
+      "en": "Logo for a Patagonia hiking guide: hiker, condor and mountains."
+    },
+    "client": "particulares"
+  },
+  {
+    "id": "flyer-levotrax",
+    "category": "flyers",
+    "accent": "cyan",
+    "image": "images/works/flyer-levotrax.jpg",
+    "title": {
+      "es": "Levotrax, laboratorio",
+      "en": "Levotrax, pharma lab"
+    },
+    "desc": {
+      "es": "Gráfica estilo videojuego de naves para un laboratorio.",
+      "en": "Space-shooter style graphic for a pharmaceutical lab."
+    },
+    "client": "particulares"
+  },
+  {
+    "id": "flyer-sacoa-promo-verano",
+    "category": "flyers",
+    "accent": "yellow",
+    "image": "images/works/flyer-sacoa-promo-verano.jpg",
+    "title": {
+      "es": "Promo Verano, Sacoa",
+      "en": "Summer Promo, Sacoa"
+    },
+    "desc": {
+      "es": "Flyer de promoción con formas geométricas.",
+      "en": "Promo flyer with geometric shapes."
+    },
+    "client": "sacoa"
+  },
+  {
+    "id": "flyer-sacoa-carga-redonda",
+    "category": "flyers",
+    "accent": "pink",
+    "image": "images/works/flyer-sacoa-carga-redonda.jpg",
+    "title": {
+      "es": "Carga Redonda, Sacoa",
+      "en": "Carga Redonda, Sacoa"
+    },
+    "desc": {
+      "es": "Flyer de promoción de cargas, todos los días.",
+      "en": "Daily top-up promo flyer."
+    },
+    "client": "sacoa"
+  },
+  {
+    "id": "flyer-sacoa-vr",
+    "category": "flyers",
+    "accent": "cyan",
+    "image": "images/works/flyer-sacoa-vr.jpg",
+    "title": {
+      "es": "VR Experience, Sacoa",
+      "en": "VR Experience, Sacoa"
+    },
+    "desc": {
+      "es": "Banner para la atracción de realidad virtual.",
+      "en": "Banner for the virtual reality attraction."
+    },
+    "client": "sacoa"
+  },
+  {
+    "id": "etiqueta-millercom",
+    "category": "vectors",
+    "accent": "yellow",
+    "client": "particulares",
+    "image": "images/works/etiqueta-millercom.jpg",
+    "title": {
+      "es": "Etiqueta de fuente, versión negra y blanca",
+      "en": "Power supply label, black and white versions"
+    },
+    "desc": {
+      "es": "Redibujada en vectores a partir de una foto, lista para reimprimir.",
+      "en": "Redrawn in vectors from a photo, ready to reprint."
+    }
+  },
+  {
+    "id": "etiqueta-apd",
+    "category": "vectors",
+    "accent": "cyan",
+    "client": "particulares",
+    "image": "images/works/etiqueta-apd.jpg",
+    "title": {
+      "es": "Etiqueta de adaptador AC/DC",
+      "en": "AC/DC adapter label"
+    },
+    "desc": {
+      "es": "Etiqueta técnica vectorizada, lista para imprimir.",
+      "en": "Technical label in vectors, print-ready."
     }
   }
 ]

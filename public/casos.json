@@ -82,5 +82,14 @@
     },
     "before": "images/casos/lowpoly-piloto-antes.jpg",
     "after": "images/casos/lowpoly-piloto-despues.jpg"
+  },
+  {
+    "id": "etiqueta-millercom",
+    "title": {
+      "es": "Etiqueta de fuente",
+      "en": "Power supply label"
+    },
+    "before": "images/casos/etiqueta-millercom-antes.jpg",
+    "after": "images/casos/etiqueta-millercom-despues.jpg"
   }
 ]

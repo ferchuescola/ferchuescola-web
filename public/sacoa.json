@@ -1,0 +1,287 @@
+[
+ {
+  "id": "fila-gabinetes",
+  "group": "sala",
+  "image": "images/sacoa/fila-gabinetes-thumb.jpg",
+  "full": "images/sacoa/fila-gabinetes.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Sala de arcades con marquesinas",
+   "en": "Arcade floor with marquees"
+  },
+  "desc": {
+   "es": "Gabinetes con las marquesinas ya colocadas.",
+   "en": "Cabinets with the marquees installed."
+  }
+ },
+ {
+  "id": "mario-marquesina-1",
+  "group": "sala",
+  "image": "images/sacoa/mario-marquesina-1-thumb.jpg",
+  "full": "images/sacoa/mario-marquesina-1.jpg",
+  "accent": "pink",
+  "title": {
+   "es": "Marquesina Super Mario Bros",
+   "en": "Super Mario Bros marquee"
+  },
+  "desc": {
+   "es": "Marquesina instalada en el gabinete.",
+   "en": "Marquee installed on the cabinet."
+  }
+ },
+ {
+  "id": "mario-marquesina-2",
+  "group": "sala",
+  "image": "images/sacoa/mario-marquesina-2-thumb.jpg",
+  "full": "images/sacoa/mario-marquesina-2.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Marquesina Super Mario Bros (frente)",
+   "en": "Super Mario Bros marquee (front)"
+  },
+  "desc": {
+   "es": "Otra vista de la marquesina colocada.",
+   "en": "Another view of the installed marquee."
+  }
+ },
+ {
+  "id": "simpsons",
+  "group": "sala",
+  "image": "images/sacoa/simpsons-thumb.jpg",
+  "full": "images/sacoa/simpsons.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Marquesina The Simpsons",
+   "en": "The Simpsons marquee"
+  },
+  "desc": {
+   "es": "Marquesina instalada en el gabinete.",
+   "en": "Marquee installed on the cabinet."
+  }
+ },
+ {
+  "id": "wonder-boy",
+  "group": "sala",
+  "image": "images/sacoa/wonder-boy-thumb.jpg",
+  "full": "images/sacoa/wonder-boy.jpg",
+  "accent": "pink",
+  "title": {
+   "es": "Marquesina Wonder Boy",
+   "en": "Wonder Boy marquee"
+  },
+  "desc": {
+   "es": "Marquesina instalada en el gabinete.",
+   "en": "Marquee installed on the cabinet."
+  }
+ },
+ {
+  "id": "virtua-striker",
+  "group": "sala",
+  "image": "images/sacoa/virtua-striker-thumb.jpg",
+  "full": "images/sacoa/virtua-striker.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Marquesina Virtua Striker 2",
+   "en": "Virtua Striker 2 marquee"
+  },
+  "desc": {
+   "es": "Marquesina instalada en el gabinete.",
+   "en": "Marquee installed on the cabinet."
+  }
+ },
+ {
+  "id": "tmnt-1",
+  "group": "sala",
+  "image": "images/sacoa/tmnt-1-thumb.jpg",
+  "full": "images/sacoa/tmnt-1.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Marquesina Tortugas Ninja",
+   "en": "Ninja Turtles marquee"
+  },
+  "desc": {
+   "es": "Marquesina instalada en el gabinete.",
+   "en": "Marquee installed on the cabinet."
+  }
+ },
+ {
+  "id": "tmnt-2",
+  "group": "sala",
+  "image": "images/sacoa/tmnt-2-thumb.jpg",
+  "full": "images/sacoa/tmnt-2.jpg",
+  "accent": "pink",
+  "title": {
+   "es": "Marquesina Tortugas Ninja (detalle)",
+   "en": "Ninja Turtles marquee (detail)"
+  },
+  "desc": {
+   "es": "Otra vista de la marquesina colocada.",
+   "en": "Another view of the installed marquee."
+  }
+ },
+ {
+  "id": "striker-sala",
+  "group": "sala",
+  "image": "images/sacoa/striker-sala-thumb.jpg",
+  "full": "images/sacoa/striker-sala.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Striker en sala",
+   "en": "Striker on the floor"
+  },
+  "desc": {
+   "es": "Frentes de las dos pistas de bowling con mi arte.",
+   "en": "Fronts of the two bowling lanes with my artwork."
+  }
+ },
+ {
+  "id": "transformers-panel",
+  "group": "sala",
+  "image": "images/sacoa/transformers-panel-thumb.jpg",
+  "full": "images/sacoa/transformers-panel.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Panel Transformers",
+   "en": "Transformers panel"
+  },
+  "desc": {
+   "es": "Gráficas e instrucciones del panel, diseñadas completas.",
+   "en": "Panel graphics and instructions, fully designed."
+  }
+ },
+ {
+  "id": "transformers-panel-2",
+  "group": "sala",
+  "image": "images/sacoa/transformers-panel-2-thumb.jpg",
+  "full": "images/sacoa/transformers-panel-2.jpg",
+  "accent": "pink",
+  "title": {
+   "es": "Panel Transformers (detalle)",
+   "en": "Transformers panel (detail)"
+  },
+  "desc": {
+   "es": "Instrucciones de controles y reglas.",
+   "en": "Controls and rules instructions."
+  }
+ },
+ {
+  "id": "promo-verano-sala",
+  "group": "sala",
+  "image": "images/sacoa/promo-verano-sala-thumb.jpg",
+  "full": "images/sacoa/promo-verano-sala.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Promo Verano en sala",
+   "en": "Summer Promo in place"
+  },
+  "desc": {
+   "es": "Gráfica en el cajón luminoso.",
+   "en": "Graphic in the light box."
+  }
+ },
+ {
+  "id": "promo-verano-detalle",
+  "group": "sala",
+  "image": "images/sacoa/promo-verano-detalle-thumb.jpg",
+  "full": "images/sacoa/promo-verano-detalle.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Promo Verano (detalle)",
+   "en": "Summer Promo (detail)"
+  },
+  "desc": {
+   "es": "La gráfica de cerca, con el cajón encendido.",
+   "en": "Close-up of the graphic, light box on."
+  }
+ },
+ {
+  "id": "striker-arte",
+  "group": "disenos",
+  "image": "images/sacoa/striker-arte-thumb.jpg",
+  "full": "images/sacoa/striker-arte.jpg",
+  "accent": "pink",
+  "title": {
+   "es": "Striker · arte",
+   "en": "Striker · artwork"
+  },
+  "desc": {
+   "es": "Arte del frente del juego de bowling.",
+   "en": "Artwork for the bowling game front."
+  }
+ },
+ {
+  "id": "mario-totem",
+  "group": "disenos",
+  "image": "images/sacoa/mario-totem-thumb.jpg",
+  "full": "images/sacoa/mario-totem.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Super Mario Bros · topper",
+   "en": "Super Mario Bros · topper"
+  },
+  "desc": {
+   "es": "Montaje del topper sobre el gabinete.",
+   "en": "Mockup of the topper on the cabinet."
+  }
+ },
+ {
+  "id": "photocenter-instrucciones",
+  "group": "disenos",
+  "image": "images/sacoa/photocenter-instrucciones-thumb.jpg",
+  "full": "images/sacoa/photocenter-instrucciones.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Photo Center · instrucciones",
+   "en": "Photo Center · instructions"
+  },
+  "desc": {
+   "es": "Cartel de instrucciones de la cabina de fotos.",
+   "en": "Instructions sign for the photo booth."
+  }
+ },
+ {
+  "id": "photocenter-grafica",
+  "group": "disenos",
+  "image": "images/sacoa/photocenter-grafica-thumb.jpg",
+  "full": "images/sacoa/photocenter-grafica.jpg",
+  "accent": "pink",
+  "title": {
+   "es": "Photo Center · gráfica",
+   "en": "Photo Center · graphic"
+  },
+  "desc": {
+   "es": "Gráfica vertical para cubrir la marca original de la cabina.",
+   "en": "Vertical graphic to cover the booth’s original branding."
+  }
+ },
+ {
+  "id": "photocenter-lateral",
+  "group": "disenos",
+  "image": "images/sacoa/photocenter-lateral-thumb.jpg",
+  "full": "images/sacoa/photocenter-lateral.jpg",
+  "accent": "yellow",
+  "title": {
+   "es": "Cabina original, antes (lateral)",
+   "en": "Original booth, before (side)"
+  },
+  "desc": {
+   "es": "Así llegó la cabina, todavía sin mis gráficas.",
+   "en": "How the booth arrived, before my graphics."
+  }
+ },
+ {
+  "id": "photocenter-frente",
+  "group": "disenos",
+  "image": "images/sacoa/photocenter-frente-thumb.jpg",
+  "full": "images/sacoa/photocenter-frente.jpg",
+  "accent": "cyan",
+  "title": {
+   "es": "Cabina original, antes (frente)",
+   "en": "Original booth, before (front)"
+  },
+  "desc": {
+   "es": "Así llegó la cabina, todavía sin mis gráficas.",
+   "en": "How the booth arrived, before my graphics."
+  }
+ }
+]
