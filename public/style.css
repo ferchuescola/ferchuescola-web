@@ -285,9 +285,12 @@ a.logo-item:hover{box-shadow:6px 6px 0 var(--pink)}
 .tgrid .work figcaption strong{display:block}
 .tg-sacoa .ph.has-img{background:rgba(23,19,50,.85)}
 
-/* PNG recortados: sin casilla ni fondo, se ve el papel tapiz de la web */
-.ph.is-png,.tgrid .work .ph.is-png,.tgrid .work .ph.has-img.is-png{background:transparent;border:0;padding:14px}
-.ph.is-png img,.tgrid .ph.is-png img,.tgrid .ph.has-img.is-png img{background:none;border:0;filter:drop-shadow(0 0 1.5px rgba(255,255,255,.75)) drop-shadow(6px 6px 0 var(--pink))}
-.tgrid .work.a-cyan .ph.is-png img{filter:drop-shadow(0 0 1.5px rgba(255,255,255,.75)) drop-shadow(6px 6px 0 var(--cyan))}
-.tgrid .work.a-yellow .ph.is-png img{filter:drop-shadow(0 0 1.5px rgba(255,255,255,.75)) drop-shadow(6px 6px 0 var(--yellow))}
-dialog.lightbox{background-image:linear-gradient(#1B1640 1px,transparent 1px),linear-gradient(90deg,#1B1640 1px,transparent 1px);background-size:28px 28px}
+/* Todo dentro de la casilla oscura: logos calados, flyers, antes/despues */
+.tgrid .work .ph.is-png,.tgrid .work .ph.has-img.is-png{background:rgba(23,19,50,.85);border:2px solid #2f2966;padding:18px}
+.tgrid .ph.has-img img,.tgrid .ph.is-logo img,.tgrid .ph.is-png img{background:none;border:0}
+.tgrid .ph.is-png img,.tgrid .work.a-cyan .ph.is-png img,.tgrid .work.a-yellow .ph.is-png img{filter:drop-shadow(0 0 1.5px rgba(255,255,255,.6)) drop-shadow(6px 6px 0 var(--pink))}
+.tgrid .work.a-cyan .ph.is-png img{filter:drop-shadow(0 0 1.5px rgba(255,255,255,.6)) drop-shadow(6px 6px 0 var(--cyan))}
+.tgrid .work.a-yellow .ph.is-png img{filter:drop-shadow(0 0 1.5px rgba(255,255,255,.6)) drop-shadow(6px 6px 0 var(--yellow))}
+.ba-panel img,.art-piece .art-img{background:rgba(23,19,50,.85);border:2px solid #2f2966;padding:18px;box-sizing:border-box}
+.ba-panel.is-after img{border-color:var(--cyan)}
+.ba-panel.is-outline img{border-color:var(--yellow)}
