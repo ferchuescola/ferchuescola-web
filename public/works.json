@@ -25,7 +25,9 @@
   "desc": {
    "es": "Boceto a lápiz convertido en personaje vectorial.",
    "en": "Pencil sketch turned into a vector character."
-  }
+  },
+  "transparent": true,
+  "full": "images/works/perro-full.webp"
  },
  {
   "id": "pinball",
@@ -81,7 +83,9 @@
   "desc": {
    "es": "Sticker vectorizado, trazo por trazo.",
    "en": "Sticker vectorized stroke by stroke."
-  }
+  },
+  "transparent": true,
+  "full": "images/works/bart-full.webp"
  },
  {
   "id": "nave",

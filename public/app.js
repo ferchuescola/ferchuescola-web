@@ -47,7 +47,7 @@
     img.onload = function () {
       img.hidden = false; ph.classList.add('has-img');
       if (w.category === 'logos') ph.classList.add('is-logo');
-      if (/\/logos\//.test(w.image)) ph.classList.add('is-png');
+      if (/\/logos\//.test(w.image) || w.transparent) ph.classList.add('is-png');
       if (img.naturalWidth && img.naturalHeight) f.style.setProperty('--r', (img.naturalWidth / img.naturalHeight).toFixed(3));
       zoomable(img, pick(w.title) + ' · ' + pick(w.desc), w.full);
     };

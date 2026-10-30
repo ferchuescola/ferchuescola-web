@@ -189,7 +189,7 @@ a.media-item:hover{border-color:var(--yellow);color:var(--yellow)}
 /* Ampliar imagen */
 dialog.lightbox{border:3px solid var(--ink);background:var(--bg);color:var(--ink);padding:16px;max-width:min(96vw,1400px);max-height:94vh}
 dialog.lightbox::backdrop{background:rgba(5,3,15,.88)}
-dialog.lightbox img{display:block;max-width:100%;max-height:78vh;margin:0 auto;background:#fff}
+dialog.lightbox img{display:block;max-width:100%;max-height:78vh;margin:0 auto;background:none}
 dialog.lightbox p{margin:12px 0 0;text-align:center;color:var(--muted)}
 dialog.lightbox button{display:block;margin:12px auto 0;background:var(--yellow);color:var(--dark);border:3px solid var(--ink);font-weight:700;padding:10px 24px;cursor:pointer;font-family:var(--body);font-size:16px}
 
@@ -265,7 +265,7 @@ a.logo-item:hover{box-shadow:6px 6px 0 var(--pink)}
 .tg-flyers{--cols:4;--ar:3/4}
 .tg-sacoa{--cols:4;--ar:1/1}
 .work-group + .work-group,.work-group{margin-bottom:56px}
-.ph.is-png img{background-color:#fff;background-image:linear-gradient(45deg,#dcd9ec 25%,transparent 25%,transparent 75%,#dcd9ec 75%),linear-gradient(45deg,#dcd9ec 25%,transparent 25%,transparent 75%,#dcd9ec 75%);background-size:20px 20px;background-position:0 0,10px 10px}
+
 .sig-btn{display:inline-flex;align-items:center;border:3px solid var(--ink);padding:4px 14px;box-shadow:4px 4px 0 var(--pink);background:var(--bg);text-decoration:none}
 .sig-btn:hover{box-shadow:4px 4px 0 var(--yellow)}
 .sig-btn img{height:34px;width:auto;display:block}
@@ -280,7 +280,14 @@ a.logo-item:hover{box-shadow:6px 6px 0 var(--pink)}
 .tgrid .ph.has-img img,.tgrid .ph.is-logo img{position:static;display:block;width:auto;height:auto;max-width:100%;max-height:100%;object-fit:contain;margin:0;border:3px solid var(--ink);background:#fff;box-shadow:7px 7px 0 var(--pink);cursor:zoom-in}
 .tgrid .work.a-cyan .ph img{box-shadow:7px 7px 0 var(--cyan)}
 .tgrid .work.a-yellow .ph img{box-shadow:7px 7px 0 var(--yellow)}
-.tgrid .ph.is-png img{background-color:#fff;background-image:linear-gradient(45deg,#dcd9ec 25%,transparent 25%,transparent 75%,#dcd9ec 75%),linear-gradient(45deg,#dcd9ec 25%,transparent 25%,transparent 75%,#dcd9ec 75%);background-size:20px 20px;background-position:0 0,10px 10px}
+.tgrid 
 .tgrid .work figcaption{text-align:center}
 .tgrid .work figcaption strong{display:block}
 .tg-sacoa .ph.has-img{background:rgba(23,19,50,.85)}
+
+/* PNG recortados: sin casilla ni fondo, se ve el papel tapiz de la web */
+.ph.is-png,.tgrid .work .ph.is-png,.tgrid .work .ph.has-img.is-png{background:transparent;border:0;padding:14px}
+.ph.is-png img,.tgrid .ph.is-png img,.tgrid .ph.has-img.is-png img{background:none;border:0;filter:drop-shadow(0 0 1.5px rgba(255,255,255,.75)) drop-shadow(6px 6px 0 var(--pink))}
+.tgrid .work.a-cyan .ph.is-png img{filter:drop-shadow(0 0 1.5px rgba(255,255,255,.75)) drop-shadow(6px 6px 0 var(--cyan))}
+.tgrid .work.a-yellow .ph.is-png img{filter:drop-shadow(0 0 1.5px rgba(255,255,255,.75)) drop-shadow(6px 6px 0 var(--yellow))}
+dialog.lightbox{background-image:linear-gradient(#1B1640 1px,transparent 1px),linear-gradient(90deg,#1B1640 1px,transparent 1px);background-size:28px 28px}
