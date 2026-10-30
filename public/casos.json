@@ -5,8 +5,8 @@
    "es": "Boceto → personaje",
    "en": "Sketch → character"
   },
-  "before": "images/casos/perro-antes.jpg",
-  "after": "images/casos/perro-despues.jpg"
+  "before": "images/casos/perro-antes.webp",
+  "after": "images/casos/perro-despues.webp"
  },
  {
   "id": "7up",
@@ -14,9 +14,9 @@
    "es": "Lata 7UP",
    "en": "7UP can"
   },
-  "before": "images/casos/7up-antes.jpg",
-  "after": "images/casos/7up-despues.jpg",
-  "outline": "images/casos/7up-contornos.jpg"
+  "before": "images/casos/7up-antes.webp",
+  "after": "images/casos/7up-despues.webp",
+  "outline": "images/casos/7up-contornos.webp"
  },
  {
   "id": "volturno",
@@ -24,9 +24,9 @@
    "es": "Volturno",
    "en": "Volturno"
   },
-  "before": "images/casos/volturno-antes.jpg",
-  "after": "images/casos/volturno-despues.jpg",
-  "outline": "images/casos/volturno-contornos.jpg"
+  "before": "images/casos/volturno-antes.webp",
+  "after": "images/casos/volturno-despues.webp",
+  "outline": "images/casos/volturno-contornos.webp"
  },
  {
   "id": "pinball",
@@ -34,8 +34,8 @@
    "es": "Cartucho Pinball",
    "en": "Pinball cartridge"
   },
-  "before": "images/casos/pinball-antes.jpg",
-  "after": "images/casos/pinball-despues.jpg"
+  "before": "images/casos/pinball-antes.webp",
+  "after": "images/casos/pinball-despues.webp"
  },
  {
   "id": "bart",
@@ -43,8 +43,8 @@
    "es": "Sticker",
    "en": "Sticker"
   },
-  "before": "images/casos/bart-antes.jpg",
-  "after": "images/casos/bart-despues.jpg"
+  "before": "images/casos/bart-antes.webp",
+  "after": "images/casos/bart-despues.webp"
  },
  {
   "id": "nave",
@@ -52,8 +52,17 @@
    "es": "Modelo de nave",
    "en": "Spaceship model"
   },
-  "before": "images/casos/nave-antes.jpg",
-  "after": "images/casos/nave-despues.jpg"
+  "before": "images/casos/nave-antes.webp",
+  "after": "images/casos/nave-despues.webp"
+ },
+ {
+  "id": "star-wars",
+  "title": {
+   "es": "Marquesina Star Wars",
+   "en": "Star Wars marquee"
+  },
+  "before": "images/casos/star-wars-antes.webp",
+  "after": "images/casos/star-wars-despues.webp"
  },
  {
   "id": "decadentes",
@@ -61,8 +70,8 @@
    "es": "Los Auténticos Decadentes",
    "en": "Los Auténticos Decadentes"
   },
-  "before": "images/casos/decadentes-antes.jpg",
-  "after": "images/casos/decadentes-despues.jpg"
+  "before": "images/casos/decadentes-antes.webp",
+  "after": "images/casos/decadentes-despues.webp"
  },
  {
   "id": "lowpoly-perra",
@@ -70,9 +79,9 @@
    "es": "Low Poly: Bernarda",
    "en": "Low Poly: Bernarda"
   },
-  "before": "images/casos/lowpoly-perra-antes.jpg",
-  "after": "images/casos/lowpoly-perra-despues.jpg",
-  "outline": "images/casos/lowpoly-perra-contornos.jpg"
+  "before": "images/casos/lowpoly-perra-antes.webp",
+  "after": "images/casos/lowpoly-perra-despues.webp",
+  "outline": "images/casos/lowpoly-perra-contornos.webp"
  },
  {
   "id": "lowpoly-piloto",
@@ -80,7 +89,7 @@
    "es": "Low Poly: Colapinto",
    "en": "Low Poly: Colapinto"
   },
-  "before": "images/casos/lowpoly-piloto-antes.jpg",
-  "after": "images/casos/lowpoly-piloto-despues.jpg"
+  "before": "images/casos/lowpoly-piloto-antes.webp",
+  "after": "images/casos/lowpoly-piloto-despues.webp"
  }
 ]

@@ -6,7 +6,7 @@
       "en": "From Sacoa to home: the historic marquees we all saw in the arcades"
     },
     "url": "https://www.clarin.com/tecnologia/sacoa-casa-marquesinas-historicas-vimos-fichines_0_q8YZ6sVUj.html",
-    "image": "images/medios/clarin.jpg",
+    "image": "images/medios/clarin.webp",
     "fit": "contain"
   },
   {
@@ -16,7 +16,7 @@
       "en": "Talking on Cultura Pop with Alexis Puig"
     },
     "url": "https://www.youtube.com/watch?v=sE_el90njHM&t=5s",
-    "image": "images/medios/culturapop.jpg"
+    "image": "images/medios/culturapop.webp"
   },
   {
     "outlet": "LN+",
@@ -25,7 +25,7 @@
       "en": "My book “Marquesinas” on LNBrunch"
     },
     "url": "https://www.youtube.com/watch?v=0XGoT-uDJEo&t=3s",
-    "image": "images/medios/ln-plus.jpg"
+    "image": "images/medios/ln-plus.webp"
   },
   {
     "outlet": "TN Tecno",
@@ -34,7 +34,7 @@
       "en": "The mini marquees came to TN Tecno"
     },
     "url": "https://www.youtube.com/watch?v=93_dsYCGFWY",
-    "image": "images/medios/tn-tecno.jpg"
+    "image": "images/medios/tn-tecno.webp"
   },
   {
     "outlet": "TN Tecno",
@@ -43,7 +43,7 @@
       "en": "My book Marquesinas on TN Tecno"
     },
     "url": "https://www.youtube.com/watch?v=Wm47hDD0JDg&t=2s",
-    "image": "images/medios/tn-tecno.jpg"
+    "image": "images/medios/tn-tecno.webp"
   },
   {
     "outlet": "Revista Replay",
@@ -52,6 +52,6 @@
       "en": "Interview in issue 19"
     },
     "url": "https://drive.google.com/file/d/1RvnZ-iydaRC9TADa21kevAtXaTsFv1cP/view",
-    "image": "images/medios/replay.jpg"
+    "image": "images/medios/replay.webp"
   }
 ]

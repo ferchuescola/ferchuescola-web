@@ -3,7 +3,7 @@
   "id": "7up",
   "category": "vectors",
   "accent": "cyan",
-  "image": "images/works/7up.jpg",
+  "image": "images/works/7up.webp",
   "title": {
    "es": "Lata 7UP, 1992",
    "en": "7UP can, 1992"
@@ -17,7 +17,7 @@
   "id": "perro",
   "category": "logos",
   "accent": "pink",
-  "image": "images/works/perro.jpg",
+  "image": "images/works/perro.webp",
   "title": {
    "es": "Del boceto al personaje",
    "en": "From sketch to character"
@@ -31,7 +31,7 @@
   "id": "pinball",
   "category": "vectors",
   "accent": "yellow",
-  "image": "images/works/pinball.jpg",
+  "image": "images/works/pinball.webp",
   "title": {
    "es": "Cartucho Pinball",
    "en": "Pinball cartridge"
@@ -45,7 +45,7 @@
   "id": "mario-cartucho",
   "category": "mixed",
   "accent": "magenta",
-  "image": "images/works/mario-cartucho.jpg",
+  "image": "images/works/mario-cartucho.webp",
   "title": {
    "es": "Cartucho Mario Bros.",
    "en": "Mario Bros. cartridge"
@@ -59,7 +59,7 @@
   "id": "volturno",
   "category": "vectors",
   "accent": "cyan",
-  "image": "images/works/volturno.jpg",
+  "image": "images/works/volturno.webp",
   "title": {
    "es": "Cafetera Volturno",
    "en": "Volturno coffee maker"
@@ -73,7 +73,7 @@
   "id": "bart",
   "category": "logos",
   "accent": "yellow",
-  "image": "images/works/bart.jpg",
+  "image": "images/works/bart.webp",
   "title": {
    "es": "Sticker de 1990",
    "en": "1990 sticker"
@@ -87,7 +87,7 @@
   "id": "nave",
   "category": "vectors",
   "accent": "pink",
-  "image": "images/works/nave.jpg",
+  "image": "images/works/nave.webp",
   "title": {
    "es": "Modelo de nave",
    "en": "Spaceship model"
@@ -101,7 +101,7 @@
   "id": "felfort",
   "category": "vectors",
   "accent": "yellow",
-  "image": "images/works/felfort.jpg",
+  "image": "images/works/felfort.webp",
   "title": {
    "es": "Chocolates FelFort",
    "en": "FelFort chocolates"
@@ -115,7 +115,7 @@
   "id": "insert-coin",
   "category": "tablet",
   "accent": "pink",
-  "image": "images/works/insert-coin.jpg",
+  "image": "images/works/insert-coin.webp",
   "title": {
    "es": "Insert coin",
    "en": "Insert coin"
@@ -129,7 +129,7 @@
   "id": "fichines-arcade",
   "category": "tablet",
   "accent": "cyan",
-  "image": "images/works/fichines-arcade.jpg",
+  "image": "images/works/fichines-arcade.webp",
   "title": {
    "es": "Fichines arcade",
    "en": "Fichines arcade"
@@ -143,7 +143,7 @@
   "id": "battle-cat",
   "category": "tablet",
   "accent": "yellow",
-  "image": "images/works/battle-cat.jpg",
+  "image": "images/works/battle-cat.webp",
   "title": {
    "es": "Sticker Battle Cat",
    "en": "Battle Cat sticker"
@@ -157,7 +157,7 @@
   "id": "retrato",
   "category": "tablet",
   "accent": "pink",
-  "image": "images/works/retrato.jpg",
+  "image": "images/works/retrato.webp",
   "title": {
    "es": "Retrato lineal",
    "en": "Line-art portrait"
@@ -171,7 +171,7 @@
   "id": "family-game-boceto",
   "category": "tablet",
   "accent": "cyan",
-  "image": "images/works/family-game-boceto.jpg",
+  "image": "images/works/family-game-boceto.webp",
   "title": {
    "es": "Boceto de Family Game",
    "en": "Family Game sketch"
@@ -185,7 +185,7 @@
   "id": "gameboy-35",
   "category": "tablet",
   "accent": "yellow",
-  "image": "images/works/gameboy-35.jpg",
+  "image": "images/works/gameboy-35.webp",
   "title": {
    "es": "Game Boy, 35 años",
    "en": "Game Boy, 35 years"
@@ -199,7 +199,7 @@
   "id": "game-genie",
   "category": "tablet",
   "accent": "pink",
-  "image": "images/works/game-genie.jpg",
+  "image": "images/works/game-genie.webp",
   "title": {
    "es": "Game Genie",
    "en": "Game Genie"
@@ -213,7 +213,7 @@
   "id": "wii",
   "category": "tablet",
   "accent": "cyan",
-  "image": "images/works/wii.jpg",
+  "image": "images/works/wii.webp",
   "title": {
    "es": "Wii",
    "en": "Wii"
@@ -227,7 +227,7 @@
   "id": "marq-intriga",
   "category": "marquees",
   "accent": "pink",
-  "image": "images/works/marq-intriga.jpg",
+  "image": "images/works/marq-intriga.webp",
   "title": {
    "es": "Marquesina “Intriga Video Juegos”",
    "en": "“Intriga Video Juegos” marquee"
@@ -241,7 +241,7 @@
   "id": "marq-space-invaders",
   "category": "marquees",
   "accent": "yellow",
-  "image": "images/works/marq-space-invaders.jpg",
+  "image": "images/works/marq-space-invaders.webp",
   "title": {
    "es": "Marquesina Space Invaders",
    "en": "Space Invaders marquee"
@@ -255,7 +255,7 @@
   "id": "marq-star-wars",
   "category": "marquees",
   "accent": "cyan",
-  "image": "images/works/marq-star-wars.jpg",
+  "image": "images/works/marq-star-wars.webp",
   "title": {
    "es": "Marquesina Star Wars (Atari)",
    "en": "Star Wars (Atari) marquee"
@@ -269,7 +269,7 @@
   "id": "marq-new-video-games",
   "category": "marquees",
   "accent": "pink",
-  "image": "images/works/marq-new-video-games.jpg",
+  "image": "images/works/marq-new-video-games.webp",
   "title": {
    "es": "Marquesina “New Video Games”",
    "en": "“New Video Games” marquee"
@@ -283,7 +283,7 @@
   "id": "marq-video-games",
   "category": "marquees",
   "accent": "cyan",
-  "image": "images/works/marq-video-games.jpg",
+  "image": "images/works/marq-video-games.webp",
   "title": {
    "es": "Marquesina “Video Games”",
    "en": "“Video Games” marquee"
@@ -297,7 +297,7 @@
   "id": "marq-videojuegos",
   "category": "marquees",
   "accent": "yellow",
-  "image": "images/works/marq-videojuegos.jpg",
+  "image": "images/works/marq-videojuegos.webp",
   "title": {
    "es": "Marquesina “Videojuegos”",
    "en": "“Videojuegos” marquee"
@@ -311,7 +311,7 @@
   "id": "marq-video-juegos",
   "category": "marquees",
   "accent": "pink",
-  "image": "images/works/marq-video-juegos.jpg",
+  "image": "images/works/marq-video-juegos.webp",
   "title": {
    "es": "Marquesina “Video Juegos”",
    "en": "“Video Juegos” marquee"
@@ -325,7 +325,7 @@
   "id": "lowpoly-perra",
   "category": "vectors",
   "accent": "pink",
-  "image": "images/works/lowpoly-perra.jpg",
+  "image": "images/works/lowpoly-perra.webp",
   "title": {
    "es": "Bernarda, Low Poly",
    "en": "Bernarda, Low Poly"
@@ -339,7 +339,7 @@
   "id": "lowpoly-piloto",
   "category": "vectors",
   "accent": "cyan",
-  "image": "images/works/lowpoly-piloto.jpg",
+  "image": "images/works/lowpoly-piloto.webp",
   "title": {
    "es": "Homenaje a Franco Colapinto",
    "en": "Tribute to Franco Colapinto"
@@ -353,7 +353,7 @@
   "id": "flyer-recital-2-minutos",
   "category": "flyers",
   "accent": "yellow",
-  "image": "images/works/flyer-recital-2-minutos.jpg",
+  "image": "images/works/flyer-recital-2-minutos.webp",
   "title": {
    "es": "Sobreviví al recital de 2 minutos",
    "en": "I survived the 2-minute concert"
@@ -367,7 +367,7 @@
   "id": "flyer-toda-america-unida",
   "category": "flyers",
   "accent": "cyan",
-  "image": "images/works/flyer-toda-america-unida.jpg",
+  "image": "images/works/flyer-toda-america-unida.webp",
   "title": {
    "es": "Toda América unida",
    "en": "All of America united"
@@ -381,7 +381,7 @@
   "id": "flyer-tecnico-sistemas",
   "category": "flyers",
   "accent": "pink",
-  "image": "images/works/flyer-tecnico-sistemas.jpg",
+  "image": "images/works/flyer-tecnico-sistemas.webp",
   "title": {
    "es": "Técnico en Sistemas",
    "en": "Computer technician"
@@ -395,8 +395,8 @@
   "id": "logo-cloud-center",
   "category": "logos",
   "accent": "cyan",
-  "image": "images/logos/logo-cloud-center-thumb.png",
-  "full": "images/logos/logo-cloud-center.png",
+  "image": "images/logos/logo-cloud-center-thumb.webp",
+  "full": "images/logos/logo-cloud-center.webp",
   "title": {
    "es": "Cloud Center",
    "en": "Cloud Center"
@@ -411,8 +411,8 @@
   "id": "logo-coleccionista-random",
   "category": "logos",
   "accent": "yellow",
-  "image": "images/logos/logo-coleccionista-random-thumb.png",
-  "full": "images/logos/logo-coleccionista-random.png",
+  "image": "images/logos/logo-coleccionista-random-thumb.webp",
+  "full": "images/logos/logo-coleccionista-random.webp",
   "title": {
    "es": "Soy Coleccionista Random",
    "en": "Soy Coleccionista Random"
@@ -426,8 +426,8 @@
   "id": "logo-griyo-digital",
   "category": "logos",
   "accent": "pink",
-  "image": "images/logos/logo-griyo-digital-thumb.png",
-  "full": "images/logos/logo-griyo-digital.png",
+  "image": "images/logos/logo-griyo-digital-thumb.webp",
+  "full": "images/logos/logo-griyo-digital.webp",
   "title": {
    "es": "Griyo Digital",
    "en": "Griyo Digital"
@@ -441,8 +441,8 @@
   "id": "logo-griyo-musical",
   "category": "logos",
   "accent": "yellow",
-  "image": "images/logos/logo-griyo-musical-thumb.png",
-  "full": "images/logos/logo-griyo-musical.png",
+  "image": "images/logos/logo-griyo-musical-thumb.webp",
+  "full": "images/logos/logo-griyo-musical.webp",
   "title": {
    "es": "Griyo Musical",
    "en": "Griyo Musical"
@@ -456,8 +456,8 @@
   "id": "logo-gausachs",
   "category": "logos",
   "accent": "yellow",
-  "image": "images/logos/logo-gausachs-thumb.png",
-  "full": "images/logos/logo-gausachs.png",
+  "image": "images/logos/logo-gausachs-thumb.webp",
+  "full": "images/logos/logo-gausachs.webp",
   "title": {
    "es": "Gausachs Propiedades",
    "en": "Gausachs Propiedades"
@@ -471,8 +471,8 @@
   "id": "logo-mdm-electro-montajes",
   "category": "logos",
   "accent": "cyan",
-  "image": "images/logos/logo-mdm-electro-montajes-thumb.png",
-  "full": "images/logos/logo-mdm-electro-montajes.png",
+  "image": "images/logos/logo-mdm-electro-montajes-thumb.webp",
+  "full": "images/logos/logo-mdm-electro-montajes.webp",
   "title": {
    "es": "MDM Electro Montajes",
    "en": "MDM Electro Montajes"
@@ -487,8 +487,8 @@
   "id": "logo-microcine",
   "category": "logos",
   "accent": "yellow",
-  "image": "images/logos/logo-microcine-thumb.png",
-  "full": "images/logos/logo-microcine.png",
+  "image": "images/logos/logo-microcine-thumb.webp",
+  "full": "images/logos/logo-microcine.webp",
   "title": {
    "es": "Micro Cine",
    "en": "Micro Cine"
@@ -502,8 +502,8 @@
   "id": "logo-munay",
   "category": "logos",
   "accent": "pink",
-  "image": "images/logos/logo-munay-thumb.png",
-  "full": "images/logos/logo-munay.png",
+  "image": "images/logos/logo-munay-thumb.webp",
+  "full": "images/logos/logo-munay.webp",
   "title": {
    "es": "Munay Pastelería Artesanal",
    "en": "Munay Artisan Bakery"
@@ -518,8 +518,8 @@
   "id": "logo-museo-retro",
   "category": "logos",
   "accent": "yellow",
-  "image": "images/logos/logo-museo-retro-thumb.png",
-  "full": "images/logos/logo-museo-retro.png",
+  "image": "images/logos/logo-museo-retro-thumb.webp",
+  "full": "images/logos/logo-museo-retro.webp",
   "title": {
    "es": "Museo Retro",
    "en": "Museo Retro"
@@ -533,8 +533,8 @@
   "id": "logo-octis",
   "category": "logos",
   "accent": "cyan",
-  "image": "images/logos/logo-octis-thumb.png",
-  "full": "images/logos/logo-octis.png",
+  "image": "images/logos/logo-octis-thumb.webp",
+  "full": "images/logos/logo-octis.webp",
   "title": {
    "es": "Octi’s",
    "en": "Octi’s"
@@ -549,8 +549,8 @@
   "id": "logo-raro-vhs",
   "category": "logos",
   "accent": "pink",
-  "image": "images/logos/logo-raro-vhs-thumb.png",
-  "full": "images/logos/logo-raro-vhs.png",
+  "image": "images/logos/logo-raro-vhs-thumb.webp",
+  "full": "images/logos/logo-raro-vhs.webp",
   "title": {
    "es": "Raro VHS",
    "en": "Raro VHS"
@@ -565,8 +565,8 @@
   "id": "logo-renegados-ciudadela",
   "category": "logos",
   "accent": "yellow",
-  "image": "images/logos/logo-renegados-ciudadela-thumb.png",
-  "full": "images/logos/logo-renegados-ciudadela.png",
+  "image": "images/logos/logo-renegados-ciudadela-thumb.webp",
+  "full": "images/logos/logo-renegados-ciudadela.webp",
   "title": {
    "es": "Renegados Ciudadela",
    "en": "Renegados Ciudadela"
@@ -580,8 +580,8 @@
   "id": "logo-seguridad-electronica",
   "category": "logos",
   "accent": "cyan",
-  "image": "images/logos/logo-seguridad-electronica-thumb.png",
-  "full": "images/logos/logo-seguridad-electronica.png",
+  "image": "images/logos/logo-seguridad-electronica-thumb.webp",
+  "full": "images/logos/logo-seguridad-electronica.webp",
   "title": {
    "es": "Seguridad Electrónica",
    "en": "Electronic Security"
@@ -596,8 +596,8 @@
   "id": "logo-trekking",
   "category": "logos",
   "accent": "pink",
-  "image": "images/logos/logo-trekking-thumb.png",
-  "full": "images/logos/logo-trekking.png",
+  "image": "images/logos/logo-trekking-thumb.webp",
+  "full": "images/logos/logo-trekking.webp",
   "title": {
    "es": "Guía de senderismo, Patagonia",
    "en": "Patagonia hiking guide"
@@ -612,7 +612,7 @@
   "id": "flyer-levotrax",
   "category": "flyers",
   "accent": "cyan",
-  "image": "images/works/flyer-levotrax.jpg",
+  "image": "images/works/flyer-levotrax.webp",
   "title": {
    "es": "Levotrax, laboratorio",
    "en": "Levotrax, pharma lab"
