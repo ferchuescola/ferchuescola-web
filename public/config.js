@@ -16,5 +16,5 @@ window.SITE = {
   bookBuyUrl: "https://articulo.mercadolibre.com.ar/MLA-902437966-marquesinas-mi-paso-por-la-industria-de-los-videojuegos-_JM",   // edición impresa
   // Formulario: creá una cuenta gratis en formspree.io, creá un formulario con tu mail
   // y pegá acá la dirección que te dan (ej. "https://formspree.io/f/abcdwxyz").
-  formEndpoint: "https://formspree.io/f/xbgdzngd"
+  formEndpoint: "https://formspree.io/f/xeaalpjk"
 };
