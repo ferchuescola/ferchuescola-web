@@ -261,6 +261,7 @@ a.logo-item:hover{box-shadow:6px 6px 0 var(--pink)}
 .tgrid .ph.is-logo,.tgrid .ph.is-logo.has-img{padding:14px}
 .tgrid .ph.is-logo img{width:auto;margin:0}
 .tg-marquees{--cols:2;--ar:3.6/1}
+.tg-arcades{--cols:2;--ar:4/3}
 .tg-logos{--cols:4;--ar:1/1}
 .tg-flyers{--cols:4;--ar:3/4}
 .tg-sacoa{--cols:4;--ar:1/1}
@@ -271,7 +272,7 @@ a.logo-item:hover{box-shadow:6px 6px 0 var(--pink)}
 .sig-btn img{height:34px;width:auto;display:block}
 .nav-links .sig-btn{margin-right:8px}
 .foot .sig-btn{order:-1}
-@media (max-width:900px){.tgrid{--cols:2}.tg-marquees{--cols:1}}
+@media (max-width:900px){.tgrid{--cols:2}.tg-marquees{--cols:1}.tg-arcades{--cols:1}}
 @media (max-width:520px){.tg-logos,.tg-flyers,.tg-sacoa{--cols:2}.tgrid{gap:28px 18px}.tgrid:not(.tg-logos):not(.tg-flyers):not(.tg-sacoa){--cols:1}}
 
 /* Casillas tipo tabla: el marco abraza la imagen y el sobrante queda en el fondo oscuro */

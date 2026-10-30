@@ -626,5 +626,129 @@
    "en": "Space-shooter style graphic for a pharmaceutical lab."
   },
   "client": "particulares"
+ },
+ {
+  "id": "arcade-pacland-marquesina",
+  "category": "arcades",
+  "client": "particulares",
+  "accent": "pink",
+  "image": "images/works/arcade-pacland-marquesina.webp",
+  "full": "images/works/arcade-pacland-marquesina-full.webp",
+  "title": {
+   "es": "Pac-Land: marquesina",
+   "en": "Pac-Land: marquee"
+  },
+  "desc": {
+   "es": "Marquesina de Pac-Land diseñada e instalada por mí. Cliente particular, 2025.",
+   "en": "Pac-Land marquee designed and installed by me. Private client, 2025."
+  }
+ },
+ {
+  "id": "arcade-pacland-ploteo",
+  "category": "arcades",
+  "client": "particulares",
+  "accent": "yellow",
+  "image": "images/works/arcade-pacland-ploteo.webp",
+  "full": "images/works/arcade-pacland-ploteo-full.webp",
+  "title": {
+   "es": "Pac-Land: ploteo integral",
+   "en": "Pac-Land: full cabinet wrap"
+  },
+  "desc": {
+   "es": "Gabinete completo: marquesina y ploteo integral diseñados y colocados por mí. Cliente particular, 2025.",
+   "en": "Full cabinet: marquee and wrap designed and applied by me. Private client, 2025."
+  }
+ },
+ {
+  "id": "arcades-colores-1",
+  "category": "arcades",
+  "client": "particulares",
+  "accent": "cyan",
+  "image": "images/works/arcades-colores-1.webp",
+  "full": "images/works/arcades-colores-1-full.webp",
+  "title": {
+   "es": "Arcades de colores",
+   "en": "Colorful arcades"
+  },
+  "desc": {
+   "es": "Marquesinas para una serie de arcades de colores. Cliente particular, 2021.",
+   "en": "Marquees for a series of colorful arcades. Private client, 2021."
+  }
+ },
+ {
+  "id": "arcades-colores-2",
+  "category": "arcades",
+  "client": "particulares",
+  "accent": "pink",
+  "image": "images/works/arcades-colores-2.webp",
+  "full": "images/works/arcades-colores-2-full.webp",
+  "title": {
+   "es": "Arcades de colores: marquesinas",
+   "en": "Colorful arcades: marquees"
+  },
+  "desc": {
+   "es": "Detalle de las marquesinas de la serie. Cliente particular, 2021.",
+   "en": "Detail of the series marquees. Private client, 2021."
+  }
+ },
+ {
+  "id": "expo-destello-charla",
+  "category": "arcades",
+  "accent": "pink",
+  "image": "images/works/expo-destello-charla.webp",
+  "full": "images/works/expo-destello-charla-full.webp",
+  "title": {
+   "es": "Exhibición de Marquesinas Argentinas",
+   "en": "Argentine Marquees Exhibition"
+  },
+  "desc": {
+   "es": "Charla en la muestra, 2025. Bar El Destello, a cargo del Club Argentino de Arcades.",
+   "en": "Talk at the show, 2025. Bar El Destello, run by the Club Argentino de Arcades."
+  }
+ },
+ {
+  "id": "expo-destello-marquesinas",
+  "category": "arcades",
+  "accent": "cyan",
+  "image": "images/works/expo-destello-marquesinas.webp",
+  "full": "images/works/expo-destello-marquesinas-full.webp",
+  "title": {
+   "es": "Mis marquesinas en la muestra",
+   "en": "My marquees at the show"
+  },
+  "desc": {
+   "es": "Marquesinas expuestas en la Exhibición de Marquesinas Argentinas, 2025 (Bar El Destello).",
+   "en": "Marquees on display at the Argentine Marquees Exhibition, 2025 (Bar El Destello)."
+  }
+ },
+ {
+  "id": "expo-destello-pantalla",
+  "category": "arcades",
+  "accent": "yellow",
+  "image": "images/works/expo-destello-pantalla.webp",
+  "full": "images/works/expo-destello-pantalla-full.webp",
+  "title": {
+   "es": "Presentación en pantalla",
+   "en": "On-screen presentation"
+  },
+  "desc": {
+   "es": "Mi nombre en la pantalla de la exhibición, 2025.",
+   "en": "My name on the exhibition screen, 2025."
+  }
+ },
+ {
+  "id": "expo-destello-1942",
+  "category": "arcades",
+  "accent": "pink",
+  "image": "images/works/expo-destello-1942.webp",
+  "full": "images/works/expo-destello-1942-full.webp",
+  "title": {
+   "es": "Exhibición: sala y pantalla",
+   "en": "Exhibition: room and screen"
+  },
+  "desc": {
+   "es": "Vista de la sala durante la exhibición, 2025.",
+   "en": "View of the room during the exhibition, 2025."
+  }
  }
 ]

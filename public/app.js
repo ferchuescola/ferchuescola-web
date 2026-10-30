@@ -56,7 +56,7 @@
     var c = el('figcaption'); c.appendChild(el('strong', '', pick(w.title))); c.appendChild(el('span', '', pick(w.desc)));
     f.appendChild(ph); f.appendChild(c); return f;
   }
-  var ORDER = ['vectors', 'marquees', 'logos', 'tablet', 'flyers', 'mixed'], PREVIEW = { vectors: 3, marquees: 2, logos: 4, tablet: 3, flyers: 4, mixed: 3 };
+  var ORDER = ['vectors', 'marquees', 'arcades', 'logos', 'tablet', 'flyers', 'mixed'], PREVIEW = { vectors: 3, marquees: 2, arcades: 2, logos: 4, tablet: 3, flyers: 4, mixed: 3 };
   function setFilter(f) {
     filter = f;
     document.querySelectorAll('[data-filter]').forEach(function (x) { x.setAttribute('aria-pressed', x.getAttribute('data-filter') === f ? 'true' : 'false'); });
