@@ -34,7 +34,7 @@
     document.querySelectorAll('[data-i18n-alt]').forEach(function (n) { n.setAttribute('alt', t(n.getAttribute('data-i18n-alt'))); });
     document.querySelectorAll('[data-lang]').forEach(function (b) { b.setAttribute('aria-pressed', b.getAttribute('data-lang') === lang ? 'true' : 'false'); });
     store('lang', lang);
-    renderWorks(); renderSacoa(); renderCases(); renderArt(); renderMedia(); renderClients();
+    renderWorks(); renderSacoa(); renderCases(); renderArt(); renderExpo(); renderMedia(); renderClients();
   }
 
   // Trabajos: si la imagen existe se muestra; si no, queda el marcador gris.
@@ -135,6 +135,11 @@
       meta.appendChild(left); meta.appendChild(chips); fig.appendChild(meta);
       list.appendChild(fig);
     });
+  }
+
+  function renderExpo() {
+    var g = document.getElementById('expo-grid'); if (!g) return; clear(g);
+    works.filter(function (w) { return /^expo-/.test(w.id); }).forEach(function (w) { g.appendChild(workFig(w)); });
   }
 
   function renderMedia() {

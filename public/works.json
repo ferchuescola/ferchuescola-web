@@ -693,7 +693,7 @@
  },
  {
   "id": "expo-destello-charla",
-  "category": "arcades",
+  "category": "expo",
   "accent": "pink",
   "image": "images/works/expo-destello-charla.webp",
   "full": "images/works/expo-destello-charla-full.webp",
@@ -708,7 +708,7 @@
  },
  {
   "id": "expo-destello-marquesinas",
-  "category": "arcades",
+  "category": "expo",
   "accent": "cyan",
   "image": "images/works/expo-destello-marquesinas.webp",
   "full": "images/works/expo-destello-marquesinas-full.webp",
@@ -723,7 +723,7 @@
  },
  {
   "id": "expo-destello-pantalla",
-  "category": "arcades",
+  "category": "expo",
   "accent": "yellow",
   "image": "images/works/expo-destello-pantalla.webp",
   "full": "images/works/expo-destello-pantalla-full.webp",
@@ -738,7 +738,7 @@
  },
  {
   "id": "expo-destello-1942",
-  "category": "arcades",
+  "category": "expo",
   "accent": "pink",
   "image": "images/works/expo-destello-1942.webp",
   "full": "images/works/expo-destello-1942-full.webp",
